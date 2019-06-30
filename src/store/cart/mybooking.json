@@ -1,0 +1,692 @@
+{
+    "availableFiltersIndex": [
+        {
+            "code": "default",
+            "sequence": 0,
+            "type": "default",
+            "properties": {},
+            "item": [
+                {
+                    "minValue": "2018-01-17T05:10:20",
+                    "maxValue": "2019-04-17T05:10:20",
+                    "minMaxList": [],
+                    "name": "checkindaterange"
+                },
+                {
+                    "minMaxList": [],
+                    "name": "bookingdate",
+                    "defaultValue": "2019-01-17T05:10:20"
+                },
+                {
+                    "minValue": "2018-01-17T05:10:20",
+                    "maxValue": "2019-02-17T05:10:20",
+                    "minMaxList": [],
+                    "name": "changerequestdaterange"
+                },
+                {
+                    "minValue": "1900-01-01T00:00:00",
+                    "maxValue": "9990-01-01T00:00:00",
+                    "minMaxList": [],
+                    "name": "bookingdaterange"
+                },
+                {
+                    "minMaxList": [],
+                    "name": "bookingstatusid",
+                    "defaultValue": "0"
+                },
+                {
+                    "minMaxList": [],
+                    "name": "businessid",
+                    "defaultValue": "0"
+                },
+                {
+                    "type": "input",
+                    "minMaxList": [],
+                    "name": "bookingreferencenumber"
+                },
+                {
+                    "type": "input",
+                    "minMaxList": [],
+                    "name": "itineraryreferencenumber"
+                }
+            ],
+            "config": [],
+            "flags": {}
+        }
+    ],
+    "availableFilters": [
+        {
+            "minValue": "2018-01-17T05:10:20",
+            "maxValue": "2019-04-17T05:10:20",
+            "minMaxList": [],
+            "name": "checkindaterange"
+        },
+        {
+            "minMaxList": [],
+            "name": "bookingdate",
+            "defaultValue": "2019-01-17T05:10:20"
+        },
+        {
+            "minValue": "2018-01-17T05:10:20",
+            "maxValue": "2019-02-17T05:10:20",
+            "minMaxList": [],
+            "name": "changerequestdaterange"
+        },
+        {
+            "minValue": "1900-01-01T00:00:00",
+            "maxValue": "9990-01-01T00:00:00",
+            "minMaxList": [],
+            "name": "bookingdaterange"
+        },
+        {
+            "minMaxList": [],
+            "name": "bookingstatusid",
+            "defaultValue": "0"
+        },
+        {
+            "minMaxList": [],
+            "name": "businessid",
+            "defaultValue": "0"
+        },
+        {
+            "type": "input",
+            "minMaxList": [],
+            "name": "bookingreferencenumber"
+        },
+        {
+            "type": "input",
+            "minMaxList": [],
+            "name": "itineraryreferencenumber"
+        }
+    ],
+    "appliedFiltersIndex": [
+        {
+            "code": "default",
+            "sequence": 0,
+            "type": "default",
+            "properties": {},
+            "item": [
+                {
+                    "minValue": "2018-01-17T05:10:20",
+                    "maxValue": "2019-04-17T05:10:20",
+                    "minMaxList": [],
+                    "name": "checkindaterange"
+                },
+                {
+                    "minMaxList": [],
+                    "name": "bookingdate",
+                    "defaultValue": "2019-01-17T05:10:20"
+                },
+                {
+                    "minValue": "2018-01-17T05:10:20",
+                    "maxValue": "2019-02-17T05:10:20",
+                    "minMaxList": [],
+                    "name": "changerequestdaterange"
+                },
+                {
+                    "minValue": "1900-01-01T00:00:00",
+                    "maxValue": "9990-01-01T00:00:00",
+                    "minMaxList": [],
+                    "name": "bookingdaterange"
+                },
+                {
+                    "minMaxList": [],
+                    "name": "bookingstatusid",
+                    "defaultValue": "0"
+                },
+                {
+                    "minMaxList": [],
+                    "name": "businessid",
+                    "defaultValue": "0"
+                },
+                {
+                    "type": "input",
+                    "minMaxList": [],
+                    "name": "bookingreferencenumber"
+                },
+                {
+                    "type": "input",
+                    "minMaxList": [],
+                    "name": "itineraryreferencenumber"
+                }
+            ],
+            "config": [],
+            "flags": {}
+        }
+    ],
+    "appliedFilters": [
+        {
+            "minValue": "2018-01-17T05:10:20",
+            "maxValue": "2019-04-17T05:10:20",
+            "minMaxList": [],
+            "name": "checkindaterange"
+        },
+        {
+            "minMaxList": [],
+            "name": "bookingdate",
+            "defaultValue": "2019-01-17T05:10:20"
+        },
+        {
+            "minValue": "2018-01-17T05:10:20",
+            "maxValue": "2019-02-17T05:10:20",
+            "minMaxList": [],
+            "name": "changerequestdaterange"
+        },
+        {
+            "minValue": "1900-01-01T00:00:00",
+            "maxValue": "9990-01-01T00:00:00",
+            "minMaxList": [],
+            "name": "bookingdaterange"
+        },
+        {
+            "minMaxList": [],
+            "name": "bookingstatusid",
+            "defaultValue": "0"
+        },
+        {
+            "minMaxList": [],
+            "name": "businessid",
+            "defaultValue": "0"
+        },
+        {
+            "type": "input",
+            "minMaxList": [],
+            "name": "bookingreferencenumber"
+        },
+        {
+            "type": "input",
+            "minMaxList": [],
+            "name": "itineraryreferencenumber"
+        }
+    ],
+    "availableSortingIndex": [],
+    "appliedSortingIndex": [],
+    "pageInfoIndex": [
+        {
+            "code": "default",
+            "sequence": 0,
+            "type": "default",
+            "properties": {},
+            "item": {
+                "currentPage": 0,
+                "totalResults": 6,
+                "totalResultItems": 0,
+                "filteredResults": 0,
+                "filteredResultItems": 0,
+                "pageLength": 20,
+                "hasNextPage": false,
+                "hasPreviousPage": false
+            },
+            "config": [],
+            "flags": {}
+        }
+    ],
+    "pageInfo": {
+        "currentPage": 0,
+        "totalResults": 6,
+        "totalResultItems": 0,
+        "filteredResults": 0,
+        "filteredResultItems": 0,
+        "pageLength": 20,
+        "hasNextPage": false,
+        "hasPreviousPage": false
+    },
+    "data": [
+        {
+            "0119-AA00478": [
+                {
+                    "id": "1",
+                    "itineraryID": "204155",
+                    "itineraryRefNo": "0119-AA00478",
+                    "itineraryDetailID": "194786",
+                    "itineraryName": "default",
+                    "bookingRefNo": "TL63480436",
+                    "bookingID": "152306",
+                    "bookingDate": "2019-01-17T05:10:35",
+                    "dateInfo": {
+                        "startDate": "2019-01-17T00:00:00",
+                        "endDate": "2019-01-18T00:00:00"
+                    },
+                    "amount": 0,
+                    "totalAmount": 0,
+                    "paidAmount": 0,
+                    "unPaidAmount": 0,
+                    "details": "Park Plaza Science Park",
+                    "markupAmount": 0,
+                    "businessID": "1",
+                    "currencyGroupID": "24000",
+                    "firstName": "Li",
+                    "lastName": "Xing",
+                    "email": "polarislee1984@outlook.com",
+                    "bookingStatusID": "1",
+                    "memberDetailID": "216385",
+                    "portalAgentID": "12106",
+                    "agentID": "12106",
+                    "businessDescription": "Hotel",
+                    "businessShortDescription": "Hotel",
+                    "providerName": "travellandacerti",
+                    "operatorName": "",
+                    "bookingStatus": "Confirmed",
+                    "rowNumber": "1",
+                    "detailCode": "1004143",
+                    "branchID": "0",
+                    "userID": "0",
+                    "countryCode": "SA",
+                    "nationalityCode": "SA",
+                    "acCommission": "0",
+                    "gatewayRefNo": "57a934bb-5536-4ada-8033-9808dc",
+                    "paymentModeID": "88",
+                    "cancellationPeriod": 0,
+                    "paymentGatewayPercentageAmount": 0,
+                    "config": [
+                        {
+                            "key": "RoomDetails",
+                            "value": "1042606986-1-0_Double Suite Room_2_0_Li_Xing__Bed and Breakfast"
+                        },
+                        {
+                            "key": "BrkDnRt",
+                            "value": "xJDSDnnPMz7SshRAZHTljQ=="
+                        },
+                        {
+                            "key": "TRCnt",
+                            "value": "wScFY4ptYlPRE7Evv5ZW3g=="
+                        },
+                        {
+                            "key": "TP",
+                            "value": "xJDSDnnPMz7SshRAZHTljQ=="
+                        },
+                        {
+                            "key": "AgentRef",
+                            "value": "cf59ddee-d8be-4704-9033-3182d3"
+                        }
+                    ],
+                    "ruleCode": "",
+                    "isClaimBack": false,
+                    "claimBackStatus": "",
+                    "claimBackAmount": -1,
+                    "claimBackApprovedAmount": 0
+                }
+            ]
+        },
+        {
+            "0119-AA00477": [
+                {
+                    "id": "1",
+                    "itineraryID": "204154",
+                    "itineraryRefNo": "0119-AA00477",
+                    "itineraryDetailID": "194785",
+                    "itineraryName": "default",
+                    "bookingRefNo": "TL77507913",
+                    "bookingID": "152305",
+                    "bookingDate": "2019-01-17T02:16:59",
+                    "dateInfo": {
+                        "startDate": "2019-01-17T00:00:00",
+                        "endDate": "2019-01-18T00:00:00"
+                    },
+                    "amount": 0,
+                    "totalAmount": 0,
+                    "paidAmount": 0,
+                    "unPaidAmount": 0,
+                    "details": "The Westin Beijing Financial Street",
+                    "markupAmount": 0,
+                    "businessID": "1",
+                    "currencyGroupID": "24000",
+                    "firstName": "Li",
+                    "lastName": "Xing",
+                    "email": "polarislee1984@outlook.com",
+                    "bookingStatusID": "1",
+                    "memberDetailID": "216384",
+                    "portalAgentID": "12106",
+                    "agentID": "12106",
+                    "businessDescription": "Hotel",
+                    "businessShortDescription": "Hotel",
+                    "providerName": "travellandacerti",
+                    "operatorName": "",
+                    "bookingStatus": "Confirmed",
+                    "rowNumber": "2",
+                    "detailCode": "3340677",
+                    "branchID": "0",
+                    "userID": "0",
+                    "countryCode": "SA",
+                    "nationalityCode": "SA",
+                    "acCommission": "0",
+                    "gatewayRefNo": "9d9180f6-064a-4e49-b1b1-80b28d",
+                    "paymentModeID": "88",
+                    "cancellationPeriod": 0,
+                    "paymentGatewayPercentageAmount": 0,
+                    "config": [
+                        {
+                            "key": "RoomDetails",
+                            "value": "3395195983-1-0_Double Executive Room_2_0_Li_Xing__Room Only"
+                        },
+                        {
+                            "key": "BrkDnRt",
+                            "value": "1ahwqL9AuP5JtGdLOb0AqQ=="
+                        },
+                        {
+                            "key": "TRCnt",
+                            "value": "wScFY4ptYlPRE7Evv5ZW3g=="
+                        },
+                        {
+                            "key": "TP",
+                            "value": "1ahwqL9AuP5JtGdLOb0AqQ=="
+                        },
+                        {
+                            "key": "AgentRef",
+                            "value": "9815c462-eaa2-4114-a873-510d2e"
+                        }
+                    ],
+                    "ruleCode": "",
+                    "isClaimBack": false,
+                    "claimBackStatus": "",
+                    "claimBackAmount": -1,
+                    "claimBackApprovedAmount": 0
+                }
+            ]
+        },
+        {
+            "0119-AA00476": [
+                {
+                    "id": "1",
+                    "itineraryID": "204153",
+                    "itineraryRefNo": "0119-AA00476",
+                    "itineraryDetailID": "194784",
+                    "itineraryName": "default",
+                    "bookingRefNo": "TL74110375",
+                    "bookingID": "152304",
+                    "bookingDate": "2019-01-17T02:00:30",
+                    "dateInfo": {
+                        "startDate": "2019-01-17T00:00:00",
+                        "endDate": "2019-01-18T00:00:00"
+                    },
+                    "amount": 0,
+                    "totalAmount": 0,
+                    "paidAmount": 0,
+                    "unPaidAmount": 0,
+                    "details": "Park Plaza Science Park",
+                    "markupAmount": 0,
+                    "businessID": "1",
+                    "currencyGroupID": "24000",
+                    "firstName": "Li",
+                    "lastName": "Xing",
+                    "email": "polarislee1984@outlook.com",
+                    "bookingStatusID": "1",
+                    "memberDetailID": "216383",
+                    "portalAgentID": "12106",
+                    "agentID": "12106",
+                    "businessDescription": "Hotel",
+                    "businessShortDescription": "Hotel",
+                    "providerName": "travellandacerti",
+                    "operatorName": "",
+                    "bookingStatus": "Confirmed",
+                    "rowNumber": "3",
+                    "detailCode": "1004143",
+                    "branchID": "0",
+                    "userID": "0",
+                    "countryCode": "SA",
+                    "nationalityCode": "SA",
+                    "acCommission": "0",
+                    "gatewayRefNo": "f20e9759-dbc5-4688-8aed-9d9994",
+                    "paymentModeID": "88",
+                    "cancellationPeriod": 0,
+                    "paymentGatewayPercentageAmount": 0,
+                    "config": [
+                        {
+                            "key": "RoomDetails",
+                            "value": "592588756-1-0_Double Suite Room_2_0_Li_Xing__Bed and Breakfast"
+                        },
+                        {
+                            "key": "BrkDnRt",
+                            "value": "eizGfvLe1QbW20W5lqpX9A=="
+                        },
+                        {
+                            "key": "TRCnt",
+                            "value": "wScFY4ptYlPRE7Evv5ZW3g=="
+                        },
+                        {
+                            "key": "TP",
+                            "value": "eizGfvLe1QbW20W5lqpX9A=="
+                        },
+                        {
+                            "key": "AgentRef",
+                            "value": "feb4c871-b88c-4094-8dcf-999388"
+                        }
+                    ],
+                    "ruleCode": "",
+                    "isClaimBack": false,
+                    "claimBackStatus": "",
+                    "claimBackAmount": -1,
+                    "claimBackApprovedAmount": 0
+                }
+            ]
+        },
+        {
+            "0119-AA00475": [
+                {
+                    "id": "1",
+                    "itineraryID": "204152",
+                    "itineraryRefNo": "0119-AA00475",
+                    "itineraryDetailID": "194783",
+                    "itineraryName": "default",
+                    "bookingRefNo": "TL79528224",
+                    "bookingID": "152303",
+                    "bookingDate": "2019-01-17T01:42:24",
+                    "dateInfo": {
+                        "startDate": "2019-01-17T00:00:00",
+                        "endDate": "2019-01-18T00:00:00"
+                    },
+                    "amount": 0,
+                    "totalAmount": 0,
+                    "paidAmount": 0,
+                    "unPaidAmount": 0,
+                    "details": "Park Plaza Science Park",
+                    "markupAmount": 0,
+                    "businessID": "1",
+                    "currencyGroupID": "24000",
+                    "firstName": "Li",
+                    "lastName": "Xing",
+                    "email": "polarislee1984@outlook.com",
+                    "bookingStatusID": "1",
+                    "memberDetailID": "216382",
+                    "portalAgentID": "12106",
+                    "agentID": "12106",
+                    "businessDescription": "Hotel",
+                    "businessShortDescription": "Hotel",
+                    "providerName": "travellandacerti",
+                    "operatorName": "",
+                    "bookingStatus": "Confirmed",
+                    "rowNumber": "4",
+                    "detailCode": "1004143",
+                    "branchID": "0",
+                    "userID": "0",
+                    "countryCode": "SA",
+                    "nationalityCode": "SA",
+                    "acCommission": "0",
+                    "gatewayRefNo": "56644c22-5872-4ca1-af6f-1c137d",
+                    "paymentModeID": "88",
+                    "cancellationPeriod": 0,
+                    "paymentGatewayPercentageAmount": 0,
+                    "config": [
+                        {
+                            "key": "RoomDetails",
+                            "value": "313217446-1-0_Double Executive Room_2_0_Li_Xing__Bed and Breakfast"
+                        },
+                        {
+                            "key": "BrkDnRt",
+                            "value": "o3GMcRBD7fXSdwe2QKaQag=="
+                        },
+                        {
+                            "key": "TRCnt",
+                            "value": "wScFY4ptYlPRE7Evv5ZW3g=="
+                        },
+                        {
+                            "key": "TP",
+                            "value": "o3GMcRBD7fXSdwe2QKaQag=="
+                        },
+                        {
+                            "key": "AgentRef",
+                            "value": "7aab94bb-059f-475e-a3f5-8b38b4"
+                        }
+                    ],
+                    "ruleCode": "",
+                    "isClaimBack": false,
+                    "claimBackStatus": "",
+                    "claimBackAmount": -1,
+                    "claimBackApprovedAmount": 0
+                }
+            ]
+        },
+        {
+            "0119-AA00474": [
+                {
+                    "id": "1",
+                    "itineraryID": "204151",
+                    "itineraryRefNo": "0119-AA00474",
+                    "itineraryDetailID": "194782",
+                    "itineraryName": "default",
+                    "bookingRefNo": "TL49332770",
+                    "bookingID": "152302",
+                    "bookingDate": "2019-01-17T01:36:46",
+                    "dateInfo": {
+                        "startDate": "2019-01-17T00:00:00",
+                        "endDate": "2019-01-18T00:00:00"
+                    },
+                    "amount": 0,
+                    "totalAmount": 0,
+                    "paidAmount": 0,
+                    "unPaidAmount": 0,
+                    "details": "Park Plaza Science Park",
+                    "markupAmount": 0,
+                    "businessID": "1",
+                    "currencyGroupID": "24000",
+                    "firstName": "Li",
+                    "lastName": "Xing",
+                    "email": "polarislee1984@outlook.com",
+                    "bookingStatusID": "1",
+                    "memberDetailID": "216381",
+                    "portalAgentID": "12106",
+                    "agentID": "12106",
+                    "businessDescription": "Hotel",
+                    "businessShortDescription": "Hotel",
+                    "providerName": "travellandacerti",
+                    "operatorName": "",
+                    "bookingStatus": "Confirmed",
+                    "rowNumber": "5",
+                    "detailCode": "1004143",
+                    "branchID": "0",
+                    "userID": "0",
+                    "countryCode": "SA",
+                    "nationalityCode": "SA",
+                    "acCommission": "0",
+                    "gatewayRefNo": "41bd62d1-0aab-4ecb-8862-a8bf94",
+                    "paymentModeID": "88",
+                    "cancellationPeriod": 0,
+                    "paymentGatewayPercentageAmount": 0,
+                    "config": [
+                        {
+                            "key": "RoomDetails",
+                            "value": "1807022551-1-0_Double Executive Room_2_0_Li_Xing__Bed and Breakfast"
+                        },
+                        {
+                            "key": "BrkDnRt",
+                            "value": "o3GMcRBD7fXSdwe2QKaQag=="
+                        },
+                        {
+                            "key": "TRCnt",
+                            "value": "wScFY4ptYlPRE7Evv5ZW3g=="
+                        },
+                        {
+                            "key": "TP",
+                            "value": "o3GMcRBD7fXSdwe2QKaQag=="
+                        },
+                        {
+                            "key": "AgentRef",
+                            "value": "71efbd26-8483-48e3-908b-0731c4"
+                        }
+                    ],
+                    "ruleCode": "",
+                    "isClaimBack": false,
+                    "claimBackStatus": "",
+                    "claimBackAmount": -1,
+                    "claimBackApprovedAmount": 0
+                }
+            ]
+        },
+        {
+            "0119-AA00473": [
+                {
+                    "id": "1",
+                    "itineraryID": "204150",
+                    "itineraryRefNo": "0119-AA00473",
+                    "itineraryDetailID": "194781",
+                    "itineraryName": "default",
+                    "bookingRefNo": "TL11433654",
+                    "bookingID": "152301",
+                    "bookingDate": "2019-01-17T01:17:28",
+                    "dateInfo": {
+                        "startDate": "2019-01-17T00:00:00",
+                        "endDate": "2019-01-18T00:00:00"
+                    },
+                    "amount": 0,
+                    "totalAmount": 0,
+                    "paidAmount": 0,
+                    "unPaidAmount": 0,
+                    "details": "Park Plaza Science Park",
+                    "markupAmount": 0,
+                    "businessID": "1",
+                    "currencyGroupID": "24000",
+                    "firstName": "Li",
+                    "lastName": "Xing",
+                    "email": "polarislee1984@outlook.com",
+                    "bookingStatusID": "1",
+                    "memberDetailID": "216380",
+                    "portalAgentID": "12106",
+                    "agentID": "12106",
+                    "businessDescription": "Hotel",
+                    "businessShortDescription": "Hotel",
+                    "providerName": "travellandacerti",
+                    "operatorName": "",
+                    "bookingStatus": "Confirmed",
+                    "rowNumber": "6",
+                    "detailCode": "1004143",
+                    "branchID": "0",
+                    "userID": "0",
+                    "countryCode": "SA",
+                    "nationalityCode": "SA",
+                    "acCommission": "0",
+                    "gatewayRefNo": "88171186-bb7e-4580-8f25-95c4ed",
+                    "paymentModeID": "88",
+                    "cancellationPeriod": 0,
+                    "paymentGatewayPercentageAmount": 0,
+                    "config": [
+                        {
+                            "key": "RoomDetails",
+                            "value": "1652388980-1-0_Double Executive Room_2_0_Li_Xing__Bed and Breakfast"
+                        },
+                        {
+                            "key": "BrkDnRt",
+                            "value": "o3GMcRBD7fXSdwe2QKaQag=="
+                        },
+                        {
+                            "key": "TRCnt",
+                            "value": "wScFY4ptYlPRE7Evv5ZW3g=="
+                        },
+                        {
+                            "key": "TP",
+                            "value": "o3GMcRBD7fXSdwe2QKaQag=="
+                        },
+                        {
+                            "key": "AgentRef",
+                            "value": "603654a6-7d51-460e-8c99-130d30"
+                        }
+                    ],
+                    "ruleCode": "",
+                    "isClaimBack": false,
+                    "claimBackStatus": "",
+                    "claimBackAmount": -1,
+                    "claimBackApprovedAmount": 0
+                }
+            ]
+        }
+    ]
+}

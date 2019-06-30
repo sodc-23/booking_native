@@ -1,0 +1,790 @@
+{
+    "availableFiltersIndex": [
+        {
+            "code": "default",
+            "sequence": 0,
+            "properties": {},
+            "item": [
+                {
+                    "type": "radio",
+                    "minMaxList": [],
+                    "name": "currency",
+                    "defaultValue": "SAR",
+                    "values": [
+                        "INR",
+                        "USD",
+                        "GBP",
+                        "SGD",
+                        "AUD",
+                        "EUR",
+                        "NZD",
+                        "THB",
+                        "MYR",
+                        "HKD",
+                        "CNY",
+                        "JPY",
+                        "CHF",
+                        "AED",
+                        "KRW",
+                        "ZAR",
+                        "IRR",
+                        "ARS",
+                        "BHD",
+                        "KWD",
+                        "IDR",
+                        "CAD",
+                        "VEB",
+                        "NGN",
+                        "DKK",
+                        "NAD",
+                        "VND",
+                        "DOP",
+                        "MXN",
+                        "BRL",
+                        "BDT",
+                        "ROL",
+                        "TND",
+                        "LYD",
+                        "SAR",
+                        "CLP",
+                        "PKR",
+                        "PHP",
+                        "COP",
+                        "HRK",
+                        "ALL",
+                        "EGP",
+                        "RUB",
+                        "MUR",
+                        "QAR",
+                        "DZD",
+                        "MMK",
+                        "UAH",
+                        "NOK"
+                    ]
+                },
+                {
+                    "type": "range",
+                    "minValue": "25.00",
+                    "maxValue": "65.00",
+                    "minMaxList": [],
+                    "name": "pricerange"
+                },
+                {
+                    "type": "input",
+                    "minMaxList": [],
+                    "name": "name"
+                },
+                {
+                    "type": "input",
+                    "minMaxList": [],
+                    "name": "name"
+                },
+                {
+                    "type": "checkBox",
+                    "minMaxList": [],
+                    "name": "amenity",
+                    "values": [
+                        "Sightseeing",
+                        "City Tours"
+                    ]
+                }
+            ],
+            "config": [],
+            "flags": {}
+        }
+    ],
+    "availableFilters": [
+        {
+            "type": "radio",
+            "minMaxList": [],
+            "name": "currency",
+            "defaultValue": "SAR",
+            "values": [
+                "INR",
+                "USD",
+                "GBP",
+                "SGD",
+                "AUD",
+                "EUR",
+                "NZD",
+                "THB",
+                "MYR",
+                "HKD",
+                "CNY",
+                "JPY",
+                "CHF",
+                "AED",
+                "KRW",
+                "ZAR",
+                "IRR",
+                "ARS",
+                "BHD",
+                "KWD",
+                "IDR",
+                "CAD",
+                "VEB",
+                "NGN",
+                "DKK",
+                "NAD",
+                "VND",
+                "DOP",
+                "MXN",
+                "BRL",
+                "BDT",
+                "ROL",
+                "TND",
+                "LYD",
+                "SAR",
+                "CLP",
+                "PKR",
+                "PHP",
+                "COP",
+                "HRK",
+                "ALL",
+                "EGP",
+                "RUB",
+                "MUR",
+                "QAR",
+                "DZD",
+                "MMK",
+                "UAH",
+                "NOK"
+            ]
+        },
+        {
+            "type": "range",
+            "minValue": "25.00",
+            "maxValue": "65.00",
+            "minMaxList": [],
+            "name": "pricerange"
+        },
+        {
+            "type": "input",
+            "minMaxList": [],
+            "name": "name"
+        },
+        {
+            "type": "input",
+            "minMaxList": [],
+            "name": "name"
+        },
+        {
+            "type": "checkBox",
+            "minMaxList": [],
+            "name": "amenity",
+            "values": [
+                "Sightseeing",
+                "City Tours"
+            ]
+        }
+    ],
+    "appliedFiltersIndex": [
+        {
+            "code": "default",
+            "sequence": 0,
+            "properties": {},
+            "item": [
+                {
+                    "minMaxList": [],
+                    "name": "currency",
+                    "defaultValue": "SAR"
+                },
+                {
+                    "type": "range",
+                    "minValue": "25.00",
+                    "maxValue": "65.00",
+                    "minMaxList": [],
+                    "name": "pricerange"
+                },
+                {
+                    "type": "input",
+                    "minMaxList": [],
+                    "name": "name"
+                },
+                {
+                    "type": "checkBox",
+                    "minMaxList": [],
+                    "name": "amenity",
+                    "values": [
+                        "Sightseeing",
+                        "City Tours"
+                    ]
+                }
+            ],
+            "config": [],
+            "flags": {}
+        }
+    ],
+    "appliedFilters": [
+        {
+            "minMaxList": [],
+            "name": "currency",
+            "defaultValue": "SAR"
+        },
+        {
+            "type": "range",
+            "minValue": "25.00",
+            "maxValue": "65.00",
+            "minMaxList": [],
+            "name": "pricerange"
+        },
+        {
+            "type": "input",
+            "minMaxList": [],
+            "name": "name"
+        },
+        {
+            "type": "checkBox",
+            "minMaxList": [],
+            "name": "amenity",
+            "values": [
+                "Sightseeing",
+                "City Tours"
+            ]
+        }
+    ],
+    "availableSortingIndex": [
+        {
+            "code": "default",
+            "sequence": 0,
+            "properties": {},
+            "item": [
+                {
+                    "order": 0,
+                    "name": "name"
+                },
+                {
+                    "order": 0,
+                    "name": "rate"
+                }
+            ],
+            "config": [],
+            "flags": {}
+        }
+    ],
+    "availableSorting": [
+        {
+            "order": 0,
+            "name": "name"
+        },
+        {
+            "order": 0,
+            "name": "rate"
+        }
+    ],
+    "appliedSortingIndex": [
+        {
+            "code": "default",
+            "sequence": 0,
+            "properties": {},
+            "item": {
+                "order": 1,
+                "name": "rate"
+            },
+            "config": [],
+            "flags": {}
+        }
+    ],
+    "appliedSorting": {
+        "order": 1,
+        "name": "rate"
+    },
+    "pageInfoIndex": [
+        {
+            "code": "default",
+            "sequence": 0,
+            "properties": {},
+            "item": {
+                "currentPage": 0,
+                "totalResults": 3,
+                "totalResultItems": 0,
+                "filteredResults": 3,
+                "filteredResultItems": 0,
+                "pageLength": 10,
+                "hasNextPage": false,
+                "hasPreviousPage": false
+            },
+            "config": [],
+            "flags": {}
+        }
+    ],
+    "pageInfo": {
+        "currentPage": 0,
+        "totalResults": 3,
+        "totalResultItems": 0,
+        "filteredResults": 3,
+        "filteredResultItems": 0,
+        "pageLength": 10,
+        "hasNextPage": false,
+        "hasPreviousPage": false
+    },
+    "token": "54988f30-5a53-47d1-b125-6c7ad047027e",
+    "data": [
+        {
+            "code": "default",
+            "sequence": 0,
+            "type": "default",
+            "properties": {},
+            "item": [
+                {
+                    "stopInfo": [],
+                    "rating": 0,
+                    "ratersCount": 0,
+                    "url": "http://preprod-activityinventory.tripshop.com/ExcursionExtranet/Upload/Excursion_7448/201781774722_black.jpg",
+                    "items": [],
+                    "isCheckAvailEnabled": false,
+                    "stopDetails": [],
+                    "totalDuration": 0,
+                    "ticketTimeLimit": "0001-01-01T00:00:00",
+                    "documents": [],
+                    "additionalParams": [],
+                    "cancellationPeriod": -1,
+                    "expiryPeriod": 0,
+                    "name": "Black Stone",
+                    "business": "activity",
+                    "objectIdentifier": "activity",
+                    "token": "97b33dd8-3f08-45b2-98ce-bbb1aa014e39",
+                    "id": "18393",
+                    "tpExtension": [
+                        {
+                            "key": "bestAmountCriteria",
+                            "value": ""
+                        },
+                        {
+                            "key": "businessTypeName",
+                            "value": "Land Activities"
+                        },
+                        {
+                            "key": "rulesAndRegulations",
+                            "value": ""
+                        },
+                        {
+                            "key": "inclusions",
+                            "value": ""
+                        },
+                        {
+                            "key": "exclusions",
+                            "value": ""
+                        },
+                        {
+                            "key": "departurePoint",
+                            "value": ""
+                        },
+                        {
+                            "key": "duration",
+                            "value": "1 Days"
+                        },
+                        {
+                            "key": "operatorName",
+                            "value": "Gaurav Mishra"
+                        },
+                        {
+                            "key": "searchDateTime",
+                            "value": "2019-01-23T03:10:05.105"
+                        },
+                        {
+                            "key": "searchCount",
+                            "value": "1"
+                        }
+                    ],
+                    "status": "Available",
+                    "dateInfo": {
+                        "startDate": "0001-01-01T00:00:00",
+                        "endDate": "0001-01-01T00:00:00"
+                    },
+                    "description": "This holy stone is the eastern cornerstone of the Kaaba, the ancient stone building towards which all Muslims pray. Many Muslims believe that the stone (originally white but now black from absorbing the sins of man) fell from heaven during the time of Adam and Eve.",
+                    "locationInfo": {
+                        "fromLocation": {
+                            "country": "Saudi Arabia",
+                            "latitude": 21.38908,
+                            "longitude": 39.85791,
+                            "priority": 0,
+                            "address": "Makkah, Saudi Arabia",
+                            "city": "Makkah",
+                            "state": "Makkah"
+                        },
+                        "toLocation": {
+                            "latitude": 0,
+                            "longitude": 0,
+                            "priority": 0
+                        }
+                    },
+                    "images": [],
+                    "paxInfo": [],
+                    "amount": 25,
+                    "displayAmount": "SAR  25",
+                    "strikeThroughAmount": 0,
+                    "originalAmount": 25,
+                    "displayOriginalAmount": "SAR  25",
+                    "policies": [],
+                    "contactInformation": {
+                        "workEmail": "gauravm@avanicimcon.com"
+                    },
+                    "vendors": [
+                        {
+                            "sequence": 0,
+                            "type": "default",
+                            "properties": {},
+                            "item": {
+                                "name": "MADARATACTI",
+                                "provider": "MADARATActivity"
+                            },
+                            "config": [],
+                            "flags": {}
+                        }
+                    ],
+                    "seatLayout": [],
+                    "displayRateInfo": [
+                        {
+                            "amount": 25,
+                            "description": "BASEPRICE",
+                            "currencyCode": "SAR",
+                            "purpose": "1"
+                        },
+                        {
+                            "amount": 25,
+                            "description": "PREPAYAMOUNT",
+                            "currencyCode": "SAR",
+                            "purpose": "8"
+                        },
+                        {
+                            "amount": 25,
+                            "description": "TOTALAMOUNT",
+                            "currencyCode": "SAR",
+                            "purpose": "10"
+                        }
+                    ],
+                    "breakDownRateInfo": [],
+                    "config": [],
+                    "flags": {},
+                    "stops": 0,
+                    "layOverDuration": 0,
+                    "journeyDuration": 0,
+                    "availabilityCount": 0,
+                    "sequenceNumber": 0,
+                    "amenities": [
+                        {
+                            "id": "",
+                            "name": "City Tours",
+                            "priority": 0
+                        }
+                    ],
+                    "features": [],
+                    "paymentGatewayInfo": [],
+                    "displayPriority": 0,
+                    "hasSpecialDeal": false,
+                    "specialDealID": "0",
+                    "specialDealDescription": "",
+                    "viewCount": 0,
+                    "quantity": 0
+                },
+                {
+                    "stopInfo": [],
+                    "rating": 0,
+                    "ratersCount": 0,
+                    "url": "http://preprod-activityinventory.tripshop.com/ExcursionExtranet/Upload/Excursion_7448/2017817807_auction.jpg",
+                    "items": [],
+                    "isCheckAvailEnabled": false,
+                    "stopDetails": [],
+                    "totalDuration": 0,
+                    "ticketTimeLimit": "0001-01-01T00:00:00",
+                    "documents": [],
+                    "additionalParams": [],
+                    "cancellationPeriod": -1,
+                    "expiryPeriod": 0,
+                    "name": "Makka Auction",
+                    "business": "activity",
+                    "objectIdentifier": "activity",
+                    "token": "bfde674d-f078-4886-bb91-6bbcd67ab2bf",
+                    "id": "18394",
+                    "tpExtension": [
+                        {
+                            "key": "bestAmountCriteria",
+                            "value": ""
+                        },
+                        {
+                            "key": "businessTypeName",
+                            "value": "Land Activities"
+                        },
+                        {
+                            "key": "rulesAndRegulations",
+                            "value": ""
+                        },
+                        {
+                            "key": "inclusions",
+                            "value": ""
+                        },
+                        {
+                            "key": "exclusions",
+                            "value": ""
+                        },
+                        {
+                            "key": "departurePoint",
+                            "value": ""
+                        },
+                        {
+                            "key": "duration",
+                            "value": "1 Days"
+                        },
+                        {
+                            "key": "operatorName",
+                            "value": "Gaurav Mishra"
+                        },
+                        {
+                            "key": "searchDateTime",
+                            "value": "2019-01-23T03:10:05.105"
+                        },
+                        {
+                            "key": "searchCount",
+                            "value": "1"
+                        }
+                    ],
+                    "status": "Available",
+                    "dateInfo": {
+                        "startDate": "0001-01-01T00:00:00",
+                        "endDate": "0001-01-01T00:00:00"
+                    },
+                    "description": "In first floor mzad Makkah or Makkah auction , is the big shop for gold and selvr in the mall and cutiy of Makkah , they have anater system for sell the jewelry by biding, the prise start from 10 SR!! ",
+                    "locationInfo": {
+                        "fromLocation": {
+                            "country": "Saudi Arabia",
+                            "latitude": 21.41842,
+                            "longitude": 39.8229,
+                            "priority": 0,
+                            "address": "6797 Ibrahim Al Khalil, Makkah, Saudi Arabia",
+                            "city": "Makkah",
+                            "state": "Makkah"
+                        },
+                        "toLocation": {
+                            "latitude": 0,
+                            "longitude": 0,
+                            "priority": 0
+                        }
+                    },
+                    "images": [],
+                    "paxInfo": [],
+                    "amount": 60,
+                    "displayAmount": "SAR  60",
+                    "strikeThroughAmount": 0,
+                    "originalAmount": 60,
+                    "displayOriginalAmount": "SAR  60",
+                    "policies": [],
+                    "contactInformation": {
+                        "workEmail": "gauravm@avanicimcon.com"
+                    },
+                    "vendors": [
+                        {
+                            "sequence": 0,
+                            "type": "default",
+                            "properties": {},
+                            "item": {
+                                "name": "MADARATACTI",
+                                "provider": "MADARATActivity"
+                            },
+                            "config": [],
+                            "flags": {}
+                        }
+                    ],
+                    "seatLayout": [],
+                    "displayRateInfo": [
+                        {
+                            "amount": 60,
+                            "description": "BASEPRICE",
+                            "currencyCode": "SAR",
+                            "purpose": "1"
+                        },
+                        {
+                            "amount": 60,
+                            "description": "PREPAYAMOUNT",
+                            "currencyCode": "SAR",
+                            "purpose": "8"
+                        },
+                        {
+                            "amount": 60,
+                            "description": "TOTALAMOUNT",
+                            "currencyCode": "SAR",
+                            "purpose": "10"
+                        }
+                    ],
+                    "breakDownRateInfo": [],
+                    "config": [],
+                    "flags": {},
+                    "stops": 0,
+                    "layOverDuration": 0,
+                    "journeyDuration": 0,
+                    "availabilityCount": 0,
+                    "sequenceNumber": 0,
+                    "amenities": [
+                        {
+                            "id": "",
+                            "name": "City Tours",
+                            "priority": 0
+                        }
+                    ],
+                    "features": [],
+                    "paymentGatewayInfo": [],
+                    "displayPriority": 0,
+                    "hasSpecialDeal": false,
+                    "specialDealID": "0",
+                    "specialDealDescription": "",
+                    "viewCount": 0,
+                    "quantity": 0
+                },
+                {
+                    "stopInfo": [],
+                    "rating": 0,
+                    "ratersCount": 0,
+                    "url": "http://preprod-activityinventory.tripshop.com/ExcursionExtranet/Upload/Excursion_7448/201781781444_avrah.jpg",
+                    "items": [],
+                    "isCheckAvailEnabled": false,
+                    "stopDetails": [],
+                    "totalDuration": 0,
+                    "ticketTimeLimit": "0001-01-01T00:00:00",
+                    "documents": [],
+                    "additionalParams": [],
+                    "cancellationPeriod": -1,
+                    "expiryPeriod": 0,
+                    "name": "Abraj Al-Bait Towers",
+                    "business": "activity",
+                    "objectIdentifier": "activity",
+                    "token": "5da4842f-c437-4a9e-8a6f-997dda83c2d9",
+                    "id": "18395",
+                    "tpExtension": [
+                        {
+                            "key": "bestAmountCriteria",
+                            "value": ""
+                        },
+                        {
+                            "key": "businessTypeName",
+                            "value": "Land Activities"
+                        },
+                        {
+                            "key": "rulesAndRegulations",
+                            "value": ""
+                        },
+                        {
+                            "key": "inclusions",
+                            "value": ""
+                        },
+                        {
+                            "key": "exclusions",
+                            "value": ""
+                        },
+                        {
+                            "key": "departurePoint",
+                            "value": ""
+                        },
+                        {
+                            "key": "duration",
+                            "value": "1 Days"
+                        },
+                        {
+                            "key": "operatorName",
+                            "value": "Gaurav Mishra"
+                        },
+                        {
+                            "key": "searchDateTime",
+                            "value": "2019-01-23T03:10:05.105"
+                        },
+                        {
+                            "key": "searchCount",
+                            "value": "1"
+                        }
+                    ],
+                    "status": "Available",
+                    "dateInfo": {
+                        "startDate": "0001-01-01T00:00:00",
+                        "endDate": "0001-01-01T00:00:00"
+                    },
+                    "description": "The Abraj Al-Bait is a government-owned megatall complex of seven skyscraper hotels in Mecca, Saudi Arabia. These towers are a part of the King Abdulaziz Endowment Project that strives to modernize the city in catering to its pilgrims",
+                    "locationInfo": {
+                        "fromLocation": {
+                            "country": "Saudi Arabia",
+                            "latitude": 21.41891,
+                            "longitude": 39.82781,
+                            "priority": 0,
+                            "address": "First Ring Rd, Al Hajlah, Makkah 24231, Saudi Arabia",
+                            "city": "Makkah",
+                            "state": "Makkah"
+                        },
+                        "toLocation": {
+                            "latitude": 0,
+                            "longitude": 0,
+                            "priority": 0
+                        }
+                    },
+                    "images": [],
+                    "paxInfo": [],
+                    "amount": 65,
+                    "displayAmount": "SAR  65",
+                    "strikeThroughAmount": 0,
+                    "originalAmount": 65,
+                    "displayOriginalAmount": "SAR  65",
+                    "policies": [],
+                    "contactInformation": {
+                        "workEmail": "gauravm@avanicimcon.com"
+                    },
+                    "vendors": [
+                        {
+                            "sequence": 0,
+                            "type": "default",
+                            "properties": {},
+                            "item": {
+                                "name": "MADARATACTI",
+                                "provider": "MADARATActivity"
+                            },
+                            "config": [],
+                            "flags": {}
+                        }
+                    ],
+                    "seatLayout": [],
+                    "displayRateInfo": [
+                        {
+                            "amount": 65,
+                            "description": "BASEPRICE",
+                            "currencyCode": "SAR",
+                            "purpose": "1"
+                        },
+                        {
+                            "amount": 65,
+                            "description": "PREPAYAMOUNT",
+                            "currencyCode": "SAR",
+                            "purpose": "8"
+                        },
+                        {
+                            "amount": 65,
+                            "description": "TOTALAMOUNT",
+                            "currencyCode": "SAR",
+                            "purpose": "10"
+                        }
+                    ],
+                    "breakDownRateInfo": [],
+                    "config": [],
+                    "flags": {},
+                    "stops": 0,
+                    "layOverDuration": 0,
+                    "journeyDuration": 0,
+                    "availabilityCount": 0,
+                    "sequenceNumber": 0,
+                    "amenities": [
+                        {
+                            "id": "",
+                            "name": "Sightseeing",
+                            "priority": 0
+                        }
+                    ],
+                    "features": [],
+                    "paymentGatewayInfo": [],
+                    "displayPriority": 0,
+                    "hasSpecialDeal": false,
+                    "specialDealID": "0",
+                    "specialDealDescription": "",
+                    "viewCount": 0,
+                    "quantity": 0
+                }
+            ],
+            "config": [],
+            "flags": {}
+        }
+    ]
+}

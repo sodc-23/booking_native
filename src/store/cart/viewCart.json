@@ -1,0 +1,975 @@
+{
+    "paymentGatewayCharges": {
+        "payfort": [
+            {
+                "amount": 790,
+                "purpose": "1"
+            },
+            {
+                "amount": 0,
+                "purpose": "116"
+            },
+            {
+                "amount": 790,
+                "purpose": "10"
+            }
+        ],
+        "payfortsadad": [
+            {
+                "amount": 790,
+                "purpose": "1"
+            },
+            {
+                "amount": 0,
+                "purpose": "116"
+            },
+            {
+                "amount": 790,
+                "purpose": "10"
+            }
+        ],
+        "payfortmada": [
+            {
+                "amount": 790,
+                "purpose": "1"
+            },
+            {
+                "amount": 0,
+                "purpose": "116"
+            },
+            {
+                "amount": 790,
+                "purpose": "10"
+            }
+        ],
+        "mastercardcheckout": [
+            {
+                "amount": 790,
+                "purpose": "1"
+            },
+            {
+                "amount": 0,
+                "purpose": "116"
+            },
+            {
+                "amount": 790,
+                "purpose": "10"
+            }
+        ],
+        "dummy": [
+            {
+                "amount": 790,
+                "purpose": "1"
+            },
+            {
+                "amount": 0,
+                "purpose": "116"
+            },
+            {
+                "amount": 790,
+                "purpose": "10"
+            }
+        ]
+    },
+    "cartID": "3921d27f-3b3b-4f1f-b5d3-a0d70aa7cc16",
+    "isLocked": false,
+    "isBooked": false,
+    "items": [
+        {
+            "isBookable": true,
+            "isLocked": false,
+            "availabilityStatus": 0,
+            "cartItemID": "43116c2a-b10f-42ef-a91e-f56c765bd4bc",
+            "cartID": "3921d27f-3b3b-4f1f-b5d3-a0d70aa7cc16",
+            "detailsID": "1004143",
+            "isFromPayLater": false,
+            "isFromModification": false,
+            "token": "e660c5bf-896e-408b-9fc5-eed578ad112b",
+            "data": {
+                "stopInfo": [],
+                "ratingInfo": [],
+                "rating": 5,
+                "ratersCount": 0,
+                "category": "Hotel",
+                "url": "",
+                "items": [
+                    {
+                        "id": "4042540218281",
+                        "vendor": {
+                            "name": "TravelLanda",
+                            "provider": "TravelLandaCerti"
+                        },
+                        "amount": 790,
+                        "displayAmount": "SAR  790",
+                        "strikeThroughAmount": 0,
+                        "originalAmount": 0,
+                        "paxInfo": [
+                            {
+                                "sequence": 0,
+                                "properties": {},
+                                "item": [
+                                    {
+                                        "type": 0,
+                                        "typeString": "ADT",
+                                        "max": 0,
+                                        "min": 0,
+                                        "quantity": 2,
+                                        "displayRateInfo": [],
+                                        "breakDownRateInfo": [],
+                                        "paymentGatewayChargeDetails": [],
+                                        "age": 0
+                                    }
+                                ],
+                                "config": [],
+                                "flags": {}
+                            }
+                        ],
+                        "dateInfo": {
+                            "startDate": "0001-01-01T00:00:00",
+                            "endDate": "0001-01-01T00:00:00"
+                        },
+                        "hasSpecialDeal": false,
+                        "tpExtension": [],
+                        "policies": [],
+                        "code": "4042540218281",
+                        "sequence": 0,
+                        "type": "Double Executive Room",
+                        "properties": {
+                            "groupAmount": 790,
+                            "groupPromotionName": ""
+                        },
+                        "item": [
+                            {
+                                "stopInfo": [],
+                                "boardingStatus": false,
+                                "age": 0,
+                                "boardTypes": [
+                                    {
+                                        "id": "",
+                                        "type": "Bed and Breakfast",
+                                        "priority": 0
+                                    }
+                                ],
+                                "name": "Double Executive Room",
+                                "business": "hotel",
+                                "objectIdentifier": "room",
+                                "code": "4254021828-1-0_1",
+                                "token": "",
+                                "tpExtension": [
+                                    {
+                                        "key": "characteristic",
+                                        "value": ""
+                                    },
+                                    {
+                                        "key": "groupId",
+                                        "value": "4042540218281"
+                                    },
+                                    {
+                                        "key": "roomTypeDescription",
+                                        "value": ""
+                                    },
+                                    {
+                                        "key": "adults",
+                                        "value": "2"
+                                    },
+                                    {
+                                        "key": "children",
+                                        "value": "0"
+                                    },
+                                    {
+                                        "key": "infants",
+                                        "value": "0"
+                                    },
+                                    {
+                                        "key": "promotionName",
+                                        "value": ""
+                                    },
+                                    {
+                                        "key": "promotionCriteriaValue",
+                                        "value": ""
+                                    }
+                                ],
+                                "status": "available",
+                                "dateInfo": {
+                                    "startDate": "0001-01-01T00:00:00",
+                                    "endDate": "0001-01-01T00:00:00"
+                                },
+                                "images": [],
+                                "paxInfo": [],
+                                "amount": 790,
+                                "displayAmount": "SAR  790",
+                                "strikeThroughAmount": 0,
+                                "originalAmount": 0,
+                                "policies": [],
+                                "vendors": [
+                                    {
+                                        "sequence": 0,
+                                        "type": "default",
+                                        "properties": {},
+                                        "item": {
+                                            "name": "TravelLanda",
+                                            "provider": "TravelLandaCerti"
+                                        },
+                                        "config": [],
+                                        "flags": {}
+                                    }
+                                ],
+                                "seatLayout": [],
+                                "displayRateInfo": [
+                                    {
+                                        "amount": 790,
+                                        "description": "BASEPRICE",
+                                        "currencyCode": "SAR",
+                                        "purpose": "1"
+                                    },
+                                    {
+                                        "amount": 790,
+                                        "description": "PREPAYAMOUNT",
+                                        "currencyCode": "SAR",
+                                        "purpose": "8"
+                                    },
+                                    {
+                                        "amount": 790,
+                                        "description": "TOTALAMOUNT",
+                                        "currencyCode": "SAR",
+                                        "purpose": "10"
+                                    }
+                                ],
+                                "breakDownRateInfo": [
+                                    {
+                                        "amount": 789.34,
+                                        "dateInfo": {
+                                            "startDate": "2019-01-16T00:00:00",
+                                            "endDate": "0001-01-01T00:00:00"
+                                        }
+                                    }
+                                ],
+                                "config": [
+                                    {
+                                        "key": "ACTLPax",
+                                        "value": "20"
+                                    },
+                                    {
+                                        "key": "TLPax",
+                                        "value": "20"
+                                    },
+                                    {
+                                        "key": "OptionId",
+                                        "value": "404254021828"
+                                    },
+                                    {
+                                        "key": "RoomId",
+                                        "value": "4254021828-1-0"
+                                    },
+                                    {
+                                        "key": "RoomName",
+                                        "value": "Double Executive Room"
+                                    },
+                                    {
+                                        "key": "BType",
+                                        "value": "Bed and Breakfast"
+                                    },
+                                    {
+                                        "key": "TP",
+                                        "value": "MCv22FVYF9r6Jp6xBJT9lQ=="
+                                    },
+                                    {
+                                        "key": "BrkDnRt",
+                                        "value": "MCv22FVYF9r6Jp6xBJT9lQ=="
+                                    }
+                                ],
+                                "flags": {
+                                    "isRefundable": false
+                                },
+                                "stops": 0,
+                                "layOverDuration": 0,
+                                "journeyDuration": 0,
+                                "availabilityCount": -1,
+                                "sequenceNumber": 0,
+                                "amenities": [],
+                                "features": [],
+                                "paymentGatewayInfo": [],
+                                "displayPriority": 0,
+                                "hasSpecialDeal": false,
+                                "specialDealID": "",
+                                "specialDealDescription": "",
+                                "viewCount": 0,
+                                "quantity": 0
+                            }
+                        ],
+                        "config": [
+                            {
+                                "key": "GroupAmount",
+                                "value": "SAR  790"
+                            }
+                        ],
+                        "flags": {}
+                    }
+                ],
+                "isCheckAvailEnabled": false,
+                "stopDetails": [],
+                "totalDuration": 0,
+                "ticketTimeLimit": "0001-01-01T00:00:00",
+                "documents": [],
+                "additionalParams": [],
+                "cancellationPeriod": -1,
+                "currencyRefCode": "24000",
+                "expiryPeriod": 0,
+                "name": "Park Plaza Science Park",
+                "business": "hotel",
+                "objectIdentifier": "hotel",
+                "token": "",
+                "id": "1004143",
+                "tpExtension": [
+                    {
+                        "key": "locationCode",
+                        "value": "CN2"
+                    },
+                    {
+                        "key": "hotelCommonCode",
+                        "value": ""
+                    },
+                    {
+                        "key": "searchDateTime",
+                        "value": "2019-01-15T21:08:53.416"
+                    },
+                    {
+                        "key": "searchCount",
+                        "value": "7"
+                    }
+                ],
+                "status": "Available",
+                "dateInfo": {
+                    "startDate": "2019-01-16T00:00:00",
+                    "endDate": "2019-01-17T00:00:00",
+                    "startTime": "",
+                    "endTime": ""
+                },
+                "description": "Boasting a strategic setting at the heart of Zhongguancun, this grand hotel offers the perfect destination for discerning business and leisure travellers. The hotel is surrounded by Beijing&apos;s top universities and research institutes, and is a mere 20 minutes&apos; driving distance away from the heart of the mesmerising Tiananmen Square and Beijing Railway Station. Just a 2 minutes&apos; walking distance away from the hotel, guests will find a bus stop which offers ease of access to other areas of this intriguing city. This contemporary hotel boasts a striking architectural style, welcoming guests with warm hospitality and modern design. The guest rooms are beautifully appointed, and feature exemplary amenities for visitors&apos; convenience and comfort. Guests will find an abundance of high-quality facilities, catering to their leisure, dining and business need to the highest degree of excellence., Year of construction: 2001, Year of most recent renovation: 2011, Number of floors (main building): 18, Total number of rooms: 394, Category: 4 STARS, Hotel Chain: RADISSON HOTEL GROUP, City centre: 12500 m, Airport: 28800 m, Bus/Train station: 15100 m",
+                "locationInfo": {
+                    "fromLocation": {
+                        "countryID": "CN",
+                        "country": "China",
+                        "latitude": 39.97592,
+                        "longitude": 116.33885,
+                        "priority": 0,
+                        "address": "Zhichun Road, Haidian District 25 100191 Beijing ",
+                        "city": "Beijing",
+                        "state": "",
+                        "zipCode": ""
+                    },
+                    "toLocation": {
+                        "latitude": 0,
+                        "longitude": 0,
+                        "priority": 0
+                    }
+                },
+                "images": [
+                    {
+                        "title": "Hotel",
+                        "url": "http://online.travellanda.com/photo/hotel/bf00b3d32a61153a/6f/6fb0a77c69f0070e/01-b.jpg",
+                        "category": "Hotel",
+                        "description": "",
+                        "updatedDate": "0001-01-01T00:00:00",
+                        "type": "Photo",
+                        "isDefault": true
+                    },
+                    {
+                        "title": "Hotel",
+                        "url": "http://online.travellanda.com/photo/hotel/bf00b3d32a61153a/6f/6fb0a77c69f0070e/02-b.jpg",
+                        "category": "Hotel",
+                        "description": "",
+                        "updatedDate": "0001-01-01T00:00:00",
+                        "type": "Photo",
+                        "isDefault": false
+                    },
+                    {
+                        "title": "Hotel",
+                        "url": "http://online.travellanda.com/photo/hotel/bf00b3d32a61153a/6f/6fb0a77c69f0070e/03-b.jpg",
+                        "category": "Hotel",
+                        "description": "",
+                        "updatedDate": "0001-01-01T00:00:00",
+                        "type": "Photo",
+                        "isDefault": false
+                    },
+                    {
+                        "title": "Hotel",
+                        "url": "http://online.travellanda.com/photo/hotel/bf00b3d32a61153a/6f/6fb0a77c69f0070e/04-b.jpg",
+                        "category": "Hotel",
+                        "description": "",
+                        "updatedDate": "0001-01-01T00:00:00",
+                        "type": "Photo",
+                        "isDefault": false
+                    },
+                    {
+                        "title": "Hotel",
+                        "url": "http://online.travellanda.com/photo/hotel/bf00b3d32a61153a/6f/6fb0a77c69f0070e/05-b.jpg",
+                        "category": "Hotel",
+                        "description": "",
+                        "updatedDate": "0001-01-01T00:00:00",
+                        "type": "Photo",
+                        "isDefault": false
+                    },
+                    {
+                        "title": "Hotel",
+                        "url": "http://online.travellanda.com/photo/hotel/bf00b3d32a61153a/6f/6fb0a77c69f0070e/06-b.jpg",
+                        "category": "Hotel",
+                        "description": "",
+                        "updatedDate": "0001-01-01T00:00:00",
+                        "type": "Photo",
+                        "isDefault": false
+                    },
+                    {
+                        "title": "Hotel",
+                        "url": "http://online.travellanda.com/photo/hotel/bf00b3d32a61153a/6f/6fb0a77c69f0070e/07-b.jpg",
+                        "category": "Hotel",
+                        "description": "",
+                        "updatedDate": "0001-01-01T00:00:00",
+                        "type": "Photo",
+                        "isDefault": false
+                    },
+                    {
+                        "title": "Hotel",
+                        "url": "http://online.travellanda.com/photo/hotel/bf00b3d32a61153a/6f/6fb0a77c69f0070e/08-b.jpg",
+                        "category": "Hotel",
+                        "description": "",
+                        "updatedDate": "0001-01-01T00:00:00",
+                        "type": "Photo",
+                        "isDefault": false
+                    },
+                    {
+                        "title": "Hotel",
+                        "url": "http://online.travellanda.com/photo/hotel/bf00b3d32a61153a/6f/6fb0a77c69f0070e/09-b.jpg",
+                        "category": "Hotel",
+                        "description": "",
+                        "updatedDate": "0001-01-01T00:00:00",
+                        "type": "Photo",
+                        "isDefault": false
+                    },
+                    {
+                        "title": "Hotel",
+                        "url": "http://online.travellanda.com/photo/hotel/bf00b3d32a61153a/6f/6fb0a77c69f0070e/10-b.jpg",
+                        "category": "Hotel",
+                        "description": "",
+                        "updatedDate": "0001-01-01T00:00:00",
+                        "type": "Photo",
+                        "isDefault": false
+                    }
+                ],
+                "paxInfo": [],
+                "amount": 790,
+                "displayAmount": "SAR  790",
+                "strikeThroughAmount": 0,
+                "originalAmount": 790,
+                "displayOriginalAmount": "SAR  790",
+                "policies": [],
+                "contactInformation": {
+                    "phoneNumber": "00861082356699",
+                    "actlFormatPhoneNumber": "-00861082356699",
+                    "fax": "",
+                    "email": ""
+                },
+                "vendors": [
+                    {
+                        "sequence": 0,
+                        "type": "default",
+                        "properties": {},
+                        "item": {
+                            "name": "TravelLanda",
+                            "provider": "TravelLandaCerti"
+                        },
+                        "config": [],
+                        "flags": {}
+                    }
+                ],
+                "seatLayout": [],
+                "displayRateInfo": [
+                    {
+                        "amount": 790,
+                        "description": "BASEPRICE",
+                        "currencyCode": "SAR",
+                        "purpose": "1"
+                    },
+                    {
+                        "amount": 790,
+                        "description": "PREPAYAMOUNT",
+                        "currencyCode": "SAR",
+                        "purpose": "8"
+                    },
+                    {
+                        "amount": 790,
+                        "description": "TOTALAMOUNT",
+                        "currencyCode": "SAR",
+                        "purpose": "10"
+                    },
+                    {
+                        "amount": 790,
+                        "description": "TOTALAMOUNT",
+                        "currencyCode": "SAR",
+                        "purpose": "10"
+                    }
+                ],
+                "breakDownRateInfo": [],
+                "config": [
+                    {
+                        "key": "ST",
+                        "value": "Available"
+                    },
+                    {
+                        "key": "CallPolicyService",
+                        "value": "true"
+                    }
+                ],
+                "flags": {
+                    "isClaimbackAvailable": false,
+                    "isAmountPerNight": false
+                },
+                "stops": 0,
+                "layOverDuration": 0,
+                "journeyDuration": 0,
+                "availabilityCount": 0,
+                "sequenceNumber": 0,
+                "amenities": [
+                    {
+                        "name": "Smoke detector",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Hotel safe",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Currency exchange facilities",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Cloakroom",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Lift access",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Mobile phone coverage",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Room service",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Laundry service (extra fee)",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Gym",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Multilingual staff",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "24-hour security",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Bellboy service",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Local and international calls",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Late Check-out (extra fee)",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Electric kettle",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "NO Large pets allowed (over 5 kg)",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "NO Small pets allowed (under 5 kg)",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "YES Garage",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "YES Car park",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "YES Wheelchair-accessible",
+                        "type": "",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Shower",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Hairdryer",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "TV",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Minibar (extra fee)",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Mini fridge",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Tea and coffee making facilities",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Carpeted floors",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Central heating",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Safe",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "220V power supply",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Bathrobes",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Slippers",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Satellite TV",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Cable TV",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Fireplace",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Smoke detector",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "Number of bedrooms:1",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    },
+                    {
+                        "name": "YES Smoking rooms",
+                        "type": "Room",
+                        "flags": {
+                            "isRoomCompare": false
+                        },
+                        "priority": 0
+                    }
+                ],
+                "features": [],
+                "paymentGatewayInfo": [],
+                "displayPriority": 0,
+                "hasSpecialDeal": false,
+                "viewCount": 0,
+                "quantity": 0
+            },
+            "quantity": 1,
+            "canExpire": false,
+            "createdTime": "2019-01-15T21:09:27",
+            "ttlInSeconds": 0,
+            "bookingStatus": 0,
+            "addons": {
+                "availableAddons": [],
+                "appliedAddons": []
+            },
+            "inputs": {
+                "availableInputs": [],
+                "appliedInputs": []
+            },
+            "fareBreakup": [
+                {
+                    "amount": 0,
+                    "strikeThroughAmount": 0,
+                    "originalAmount": 0,
+                    "dateInfo": {
+                        "startDate": "0001-01-01T00:00:00",
+                        "endDate": "0001-01-01T00:00:00"
+                    },
+                    "hasSpecialDeal": false,
+                    "tpExtension": [],
+                    "policies": [],
+                    "code": "10",
+                    "sequence": 0,
+                    "type": "10",
+                    "properties": {},
+                    "item": [
+                        {
+                            "type": "Double ExecutiveRoom",
+                            "code": "Double Executive Room",
+                            "quantity": 1,
+                            "displayRateInfo": [
+                                {
+                                    "amount": 790,
+                                    "displayAmount": "SAR  790",
+                                    "description": "1",
+                                    "currencyCode": "SAR",
+                                    "purpose": "1"
+                                }
+                            ],
+                            "totalAmount": 790,
+                            "displayTotalAmount": "SAR  790",
+                            "currencyCode": "SAR"
+                        }
+                    ],
+                    "config": [],
+                    "flags": {}
+                },
+                {
+                    "amount": 0,
+                    "strikeThroughAmount": 0,
+                    "originalAmount": 0,
+                    "dateInfo": {
+                        "startDate": "0001-01-01T00:00:00",
+                        "endDate": "0001-01-01T00:00:00"
+                    },
+                    "hasSpecialDeal": false,
+                    "tpExtension": [],
+                    "policies": [],
+                    "code": "1",
+                    "sequence": 0,
+                    "type": "1",
+                    "properties": {},
+                    "item": [
+                        {
+                            "type": "",
+                            "code": "",
+                            "quantity": 1,
+                            "displayRateInfo": [
+                                {
+                                    "amount": 790,
+                                    "displayAmount": "SAR  790",
+                                    "description": "Total Amount",
+                                    "currencyCode": "SAR",
+                                    "purpose": "10"
+                                }
+                            ],
+                            "totalAmount": 790,
+                            "displayTotalAmount": "SAR  790",
+                            "currencyCode": "SAR"
+                        }
+                    ],
+                    "config": [],
+                    "flags": {}
+                }
+            ],
+            "flags": {},
+            "config": {}
+        }
+    ],
+    "travellers": {},
+    "inputs": {
+        "availableInputs": [],
+        "appliedInputs": []
+    },
+    "bookingTransactionStatus": 0,
+    "paymentStatus": 0,
+    "displayCharges": [
+        {
+            "amount": 790,
+            "description": "BaseFare"
+        },
+        {
+            "amount": 0,
+            "description": "Baggage"
+        },
+        {
+            "amount": 0,
+            "description": "MealPreference"
+        },
+        {
+            "amount": 0,
+            "description": "Insurance"
+        },
+        {
+            "amount": 0,
+            "description": "OptionalAmenity"
+        },
+        {
+            "amount": 0,
+            "description": "Discount"
+        },
+        {
+            "amount": 790,
+            "description": "Total"
+        }
+    ]
+}

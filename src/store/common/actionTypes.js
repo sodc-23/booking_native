@@ -1,0 +1,7 @@
+export const SET_INTERNET_CONNECTION_STATUS = 'SET_INTERNET_CONNECTION_STATUS'
+export const SHOW_TOAST = 'SHOW_TOAST'
+export const IMAGE_UPLOAD = 'IMAGE_UPLOAD'
+
+export const LOADING = 'LOADING'
+export const SUCCESS = 'SUCCESS'
+export const FAILED = 'FAILED'

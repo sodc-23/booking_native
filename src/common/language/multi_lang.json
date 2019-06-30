@@ -1,0 +1,1478 @@
+{
+	"aboutApp": {
+		"ar": "عن التطبيق",
+		"en": "about app"
+	},
+	"aboutUs": {
+		"ar": "عنا",
+		"en": "about us"
+	},
+	"accommodation": {
+		"ar": "الإقامة",
+		"en": "accommodation"
+	},
+	"activities": {
+		"ar": "الأنشطة",
+		"en": "activities"
+	},
+	"activityDetails": {
+		"ar": "تفاصيل النشاط",
+		"en": "activity details"
+	},
+	"addAnotherRoom": {
+		"ar": "اضف غرفة أخرى",
+		"en": "add another room"
+	},
+	"addCo-traveler": {
+		"ar": "اضف مسافرًا آخر",
+		"en": "add co-traveler"
+	},
+	"addOnDetails": {
+		"ar": "اضف تفاصيل",
+		"en": "Add On Details"
+	},
+	"addToCart": {
+		"ar": "اضف للسلة",
+		"en": "add to cart"
+	},
+	"address": {
+		"ar": "العنوان",
+		"en": "address"
+	},
+	"adt": {
+		"ar": "بالغ",
+		"en": "Adt"
+	},
+	"adult(s)": {
+		"ar": "بالغ/بالغون",
+		"en": "adult(s)"
+	},
+	"age": {
+		"ar": "العمر",
+		"en": "age"
+	},
+	"ageOfGuest": {
+		"ar": "عمر النزيل",
+		"en": "Age of Guest"
+	},
+	"air": {
+		"ar": "هواء",
+		"en": "air"
+	},
+	"airline": {
+		"ar": "الخطوط الجوية",
+		"en": "airline"
+	},
+	"airport": {
+		"ar": "مطار",
+		"en": "airport"
+	},
+	"anniversaryDate": {
+		"ar": "تاريخ الذكرى السنوية",
+		"en": "anniversary date"
+	},
+	"april": {
+		"ar": "ابريل",
+		"en": "APRIL"
+	},
+	"arabic": {
+		"ar": "اللغة العربية",
+		"en": "arabic"
+	},
+	"areYouAForeigner?": {
+		"ar": "هل أنت أجنبي؟",
+		"en": "Are you a foreigner?"
+	},
+	"arrival": {
+		"ar": "الوصول",
+		"en": "arrival"
+	},
+	"arrivingDate": {
+		"ar": "تاريخ الوصول",
+		"en": "arriving date"
+	},
+	"arrivingTime": {
+		"ar": "وقت الوصول",
+		"en": "arriving time"
+	},
+	"asAboveDetails": {
+		"ar": "التفاصيل كما بالأعلى",
+		"en": "as above details"
+	},
+	"august": {
+		"ar": "أغسطس",
+		"en": "AUGUST"
+	},
+	"availability": {
+		"ar": "التوفر",
+		"en": "availability"
+	},
+	"available": {
+		"ar": "متوفر",
+		"en": "available"
+	},
+	"availableFrom": {
+		"ar": "متوفر من",
+		"en": "available from"
+	},
+	"bag(s)": {
+		"ar": "حقيبة/حقائب",
+		"en": "bag(s)"
+	},
+	"bags": {
+		"ar": "حقائب",
+		"en": "bags"
+	},
+	"basePrice": {
+		"ar": "السعر الأساسي",
+		"en": "base price"
+	},
+	"birthDate": {
+		"ar": "تاريخ الميلاد",
+		"en": "birth date"
+	},
+	"blocked": {
+		"ar": "محظور",
+		"en": "blocked"
+	},
+	"boardingPoint": {
+		"ar": "نقطة الركوب",
+		"en": "boarding point"
+	},
+	"book": {
+		"ar": "احجز",
+		"en": "book"
+	},
+	"bookingDate": {
+		"ar": "تاريخ الحجز",
+		"en": "booking date"
+	},
+	"bookingFailure": {
+		"ar": "فشل الحجز",
+		"en": "booking failure"
+	},
+	"bookingFor": {
+		"ar": "الحجز لـ",
+		"en": "booking for"
+	},
+	"bookingPolicies": {
+		"ar": "سياسات الحجز",
+		"en": "booking policies"
+	},
+	"bookingRefNo": {
+		"ar": "رقم مرجع الحجز",
+		"en": "booking ref no"
+	},
+	"bookingStatus": {
+		"ar": "حالة الحجز",
+		"en": "booking status"
+	},
+	"bus": {
+		"ar": "اوتوبيس",
+		"en": "bus"
+	},
+	"buses": {
+		"ar": "اوتوبيسات",
+		"en": "buses"
+	},
+	"callUs": {
+		"ar": "اتصل بنا",
+		"en": "call us"
+	},
+	"cancel": {
+		"ar": "الغِ",
+		"en": "cancel"
+	},
+	"cancelRequest": {
+		"ar": "الغِ الطلب",
+		"en": "cancel request"
+	},
+	"cancellationPolicy": {
+		"ar": "سياسة الإلغاء",
+		"en": "cancellation policy"
+	},
+	"cancelled": {
+		"ar": "تم الإلغاء",
+		"en": "cancelled"
+	},
+	"carRental": {
+		"ar": "تأجير سيارة",
+		"en": "car rental"
+	},
+	"category": {
+		"ar": "فئة",
+		"en": "category"
+	},
+	"cellPhone": {
+		"ar": "الهاتف الخلوي",
+		"en": "cell phone"
+	},
+	"changeDate": {
+		"ar": "تغيير التاريخ",
+		"en": "changeDate"
+	},
+	"changePassword": {
+		"ar": "تغيير كلمة السر",
+		"en": "change password"
+	},
+	"check-in": {
+		"ar": "الدخول",
+		"en": "Check-in"
+	},
+	"check-out": {
+		"ar": "المغادرة",
+		"en": "Check-out"
+	},
+	"checkout": {
+		"ar": "المغادرة",
+		"en": "checkout"
+	},
+	"child": {
+		"ar": "طفل",
+		"en": "child"
+	},
+	"children": {
+		"ar": "طفل",
+		"en": "children"
+	},
+	"choose": {
+		"ar": "اختر",
+		"en": "choose"
+	},
+	"chooseRoom": {
+		"ar": "اختر الغرفة",
+		"en": "choose room"
+	},
+	"city": {
+		"ar": "المدينة",
+		"en": "city"
+	},
+	"co-travelers": {
+		"ar": "مسافرون آخرون",
+		"en": "co-travelers"
+	},
+	"comments": {
+		"ar": "التعليقات",
+		"en": "comments"
+	},
+	"completed": {
+		"ar": "اكتمل",
+		"en": "completed"
+	},
+	"confirmNewPassword": {
+		"ar": "التأكيد على كلمة المرور الجديدة",
+		"en": "confirm new password"
+	},
+	"confirmed": {
+		"ar": "تم التأكيد",
+		"en": "confirmed"
+	},
+	"contact": {
+		"ar": "الاتصال",
+		"en": "contact"
+	},
+	"continue": {
+		"ar": "استكمل",
+		"en": "continue"
+	},
+	"country": {
+		"ar": "بلد",
+		"en": "country"
+	},
+	"creditCard": {
+		"ar": "بطاقة ائتمان",
+		"en": "credit card"
+	},
+	"cruise": {
+		"ar": "رحلة بحرية",
+		"en": "cruise"
+	},
+	"cruises": {
+		"ar": "رحلات بحرية",
+		"en": "cruises"
+	},
+	"customerDetails": {
+		"ar": "تفاصيل العميل",
+		"en": "customer details"
+	},
+	"date": {
+		"ar": "التاريخ",
+		"en": "date"
+	},
+	"day": {
+		"ar": "اليوم",
+		"en": "day"
+	},
+	"days": {
+		"ar": "الأيام",
+		"en": "days"
+	},
+	"december": {
+		"ar": "ديسمبر",
+		"en": "DECEMBER"
+	},
+	"default": {
+		"ar": "الافتراضي",
+		"en": "default"
+	},
+	"delete": {
+		"ar": "امسح",
+		"en": "delete"
+	},
+	"depart": {
+		"ar": "غادر",
+		"en": "depart"
+	},
+	"departing": {
+		"ar": "المغادرة",
+		"en": "departing"
+	},
+	"description": {
+		"ar": "الوصف",
+		"en": "description"
+	},
+	"detailedDayWiseItinerary": {
+		"ar": "خط سير الرحلة بالتفصيل",
+		"en": "detailed day wise itinerary"
+	},
+	"details": {
+		"ar": "تفاصيل",
+		"en": "details"
+	},
+	"documentNumber": {
+		"ar": "رقم المستند",
+		"en": "document number"
+	},
+	"documentType": {
+		"ar": "نوع المستند",
+		"en": "document type"
+	},
+	"done": {
+		"ar": "تم",
+		"en": "DONE"
+	},
+	"drop-offLocation": {
+		"ar": "موقع النزول",
+		"en": "drop-off location"
+	},
+	"dropOffLocation": {
+		"ar": "موقع النزول",
+		"en": "drop off location"
+	},
+	"dropoffHotelDetails": {
+		"ar": "تفاصيل فندق النزول",
+		"en": "dropoff hotel details"
+	},
+	"dropoffHotelName": {
+		"ar": "اسم فندق النزول",
+		"en": "dropoff hotel name"
+	},
+	"droppingPoint": {
+		"ar": "نقطة النزول",
+		"en": "dropping point"
+	},
+	"duration": {
+		"ar": "المدة",
+		"en": "duration"
+	},
+	"e-mailAddress": {
+		"ar": "عنوان البريد الالكتروني",
+		"en": "e-mail address"
+	},
+	"economicStandard(m)": {
+		"ar": "اقتصادي قياسي",
+		"en": "Economic Standard(M)"
+	},
+	"economy": {
+		"ar": "اقتصادي",
+		"en": "economy"
+	},
+	"edit": {
+		"ar": "تعديل",
+		"en": "edit"
+	},
+	"editCo-traveler": {
+		"ar": "تعديل مسافر",
+		"en": "edit co-traveler"
+	},
+	"editProfile": {
+		"ar": "تعديل الملف الشخصي",
+		"en": "edit profile"
+	},
+	"email": {
+		"ar": "البريد الالكتروني",
+		"en": "email"
+	},
+	"english": {
+		"ar": "اللغة الإنجليزية",
+		"en": "english"
+	},
+	"exclusion": {
+		"ar": "استثناء",
+		"en": "exclusion"
+	},
+	"exclusions": {
+		"ar": "استثناءات",
+		"en": "exclusions"
+	},
+	"expiryDate": {
+		"ar": "تاريخ انتهاء الصلاحية",
+		"en": "expiry date"
+	},
+	"facilities": {
+		"ar": "المرافق",
+		"en": "facilities"
+	},
+	"facility": {
+		"ar": "المرافق",
+		"en": "facility"
+	},
+	"fareSummary": {
+		"ar": "ملخص الرسوم",
+		"en": "fare summary"
+	},
+	"february": {
+		"ar": "فبراير",
+		"en": "FEBRUARY"
+	},
+	"female": {
+		"ar": "أنثى",
+		"en": "female"
+	},
+	"filter": {
+		"ar": "فلتر",
+		"en": "filter"
+	},
+	"firstName": {
+		"ar": "الاسم الأول",
+		"en": "first name"
+	},
+	"flight": {
+		"ar": "رحلة طيران",
+		"en": "flight"
+	},
+	"flightCustomerDetails": {
+		"ar": "تفاصيل عميل رحلة طيران",
+		"en": "flight customer details"
+	},
+	"flightDetails": {
+		"ar": "تفاصيل رحلة طيران",
+		"en": "flight details"
+	},
+	"flights": {
+		"ar": "رحلات طيران",
+		"en": "flights"
+	},
+	"floor": {
+		"ar": "طابق",
+		"en": "floor"
+	},
+	"for": {
+		"ar": "من أجل",
+		"en": "for"
+	},
+	"forgotPassword?": {
+		"ar": "نسيت كلمة المرور؟",
+		"en": "forgot password?"
+	},
+	"found": {
+		"ar": "وجد",
+		"en": "found"
+	},
+	"fri": {
+		"ar": "الجمعة",
+		"en": "FRI"
+	},
+	"from": {
+		"ar": "من",
+		"en": "from"
+	},
+	"fromPhotoLibrary": {
+		"ar": "من مكتبة الصور",
+		"en": "from photo library"
+	},
+	"gender": {
+		"ar": "الجنس",
+		"en": "gender"
+	},
+	"generalSettings": {
+		"ar": "اعدادات عامة",
+		"en": "general settings"
+	},
+	"guestDetails": {
+		"ar": "تفاصيل النزيل",
+		"en": "guest details"
+	},
+	"guestFirstName": {
+		"ar": "الاسم الأول للنزيل",
+		"en": "guest first name"
+	},
+	"guestLastName": {
+		"ar": "الاسم الأخير للنزيل",
+		"en": "guest last name"
+	},
+	"home": {
+		"ar": "المنزل",
+		"en": "home"
+	},
+	"homePhone": {
+		"ar": "هاتف المنزل",
+		"en": "home phone"
+	},
+	"homePhoneNumber": {
+		"ar": "رقم هاتف المنزل",
+		"en": "home phone number"
+	},
+	"hotDeal": {
+		"ar": "صفقة ساخنة",
+		"en": "hot deal"
+	},
+	"hotDeals": {
+		"ar": "صفقات ساخنة",
+		"en": "hot deals"
+	},
+	"hotel": {
+		"ar": "فندق",
+		"en": "hotel"
+	},
+	"hotels": {
+		"ar": "فنادق",
+		"en": "hotels"
+	},
+	"hotelsInThisArea": {
+		"ar": "فنادق في هذه المنطقة",
+		"en": "hotels in this area"
+	},
+	"hour": {
+		"ar": "ساعة",
+		"en": "hour"
+	},
+	"hours": {
+		"ar": "ساعات",
+		"en": "hours"
+	},
+	"images": {
+		"ar": "صور",
+		"en": "images"
+	},
+	"inclusion": {
+		"ar": "ادراج",
+		"en": "inclusion"
+	},
+	"inclusions": {
+		"ar": "ادراج",
+		"en": "inclusions"
+	},
+	"inclusion &Exclusion": {
+		"ar": "ادراج واستبعاد",
+		"en": "inclusion & exclusion"
+	},
+	"infant": {
+		"ar": "قاصر",
+		"en": "infant"
+	},
+	"infant(s)": {
+		"ar": "قاصرون",
+		"en": "infant(s)"
+	},
+	"issuingCountry": {
+		"ar": "بلد الإصدار",
+		"en": "issuing country"
+	},
+	"itineraryName": {
+		"ar": "اسم مسار الرحلة",
+		"en": "itinerary name"
+	},
+	"itineraryRefno": {
+		"ar": "رقم مرجع مسار الرحلة",
+		"en": "Itinerary RefNo"
+	},
+	"january": {
+		"ar": "يناير",
+		"en": "JANUARY"
+	},
+	"july": {
+		"ar": "يوليو",
+		"en": "JULY"
+	},
+	"june": {
+		"ar": "يونيو",
+		"en": "JUNE"
+	},
+	"ladies": {
+		"ar": "السيدات",
+		"en": "ladies"
+	},
+	"language": {
+		"ar": "اللغة",
+		"en": "language"
+	},
+	"lastName": {
+		"ar": "الاسم الأخير",
+		"en": "last name"
+	},
+	"latestSearch": {
+		"ar": "آخر بحث",
+		"en": "latest search"
+	},
+	"leadPassengerDetails": {
+		"ar": "تفاصيل المسافر الأول",
+		"en": "Lead Passenger Details"
+	},
+	"list": {
+		"ar": "قائمة",
+		"en": "list"
+	},
+	"loading": {
+		"ar": "جاري التحميل",
+		"en": "loading"
+	},
+	"location": {
+		"ar": "موقع",
+		"en": "location"
+	},
+	"locations": {
+		"ar": "موقع",
+		"en": "locations"
+	},
+	"login &Continue": {
+		"ar": "تسجيل الدخول والاستمرار",
+		"en": "login & continue"
+	},
+	"logout": {
+		"ar": "تسجيل الخروج",
+		"en": "logout"
+	},
+	"male": {
+		"ar": "ذكر",
+		"en": "male"
+	},
+	"map": {
+		"ar": "خريطة",
+		"en": "map"
+	},
+	"march": {
+		"ar": "مارس",
+		"en": "MARCH"
+	},
+	"maxPersons": {
+		"ar": "الحد الأقصى للأشخاص",
+		"en": "max persons"
+	},
+	"may": {
+		"ar": "مايو",
+		"en": "MAY"
+	},
+	"meetingPlace": {
+		"ar": "مقر الاجتماع",
+		"en": "meeting place"
+	},
+	"mobileNumber": {
+		"ar": "رقم الهاتف الخلوي",
+		"en": "mobile number"
+	},
+	"modify": {
+		"ar": "تعديل",
+		"en": "modify"
+	},
+	"modifyRequest": {
+		"ar": "تعديل الطلب",
+		"en": "modify request"
+	},
+	"mon": {
+		"ar": "الاثنين",
+		"en": "MON"
+	},
+	"myBooking": {
+		"ar": "حجزي",
+		"en": "my booking"
+	},
+	"myCart": {
+		"ar": "سلتي",
+		"en": "my cart"
+	},
+	"myProfile": {
+		"ar": "ملفي الشخصي",
+		"en": "my profile"
+	},
+	"name": {
+		"ar": "الاسم",
+		"en": "name"
+	},
+	"nationality": {
+		"ar": "الجنسية",
+		"en": "nationality"
+	},
+	"newPassowrd(minimum6Characters)": {
+		"ar": "كلمة المرور الجديدة (6 أحرف على الأقل)",
+		"en": "New Passowrd(minimum 6 characters)"
+	},
+	"night": {
+		"ar": "ليلة",
+		"en": "night"
+	},
+	"nightlyAverage": {
+		"ar": "متوسط الليلة",
+		"en": "nightly average"
+	},
+	"nights": {
+		"ar": "ليالي",
+		"en": "nights"
+	},
+	"noActivityFound.": {
+		"ar": "لا توجد أنشطة",
+		"en": "No Activity Found."
+	},
+	"noBookingPoliciesFound": {
+		"ar": "لا توجد سياسات حجز",
+		"en": "No Booking Policies Found"
+	},
+	"noBusFound": {
+		"ar": "لا توجد اتوبيسات",
+		"en": "no bus found"
+	},
+	"noCarsFound.": {
+		"ar": "لا توجد سيارات",
+		"en": "No Cars Found."
+	},
+	"noDeal(s)AreAvailable.": {
+		"ar": "لا تتوفر صفقات",
+		"en": "No deal(s) are available."
+	},
+	"noHotel(s)Found.": {
+		"ar": "لا يوجد فنادق",
+		"en": "No Hotel(s) Found."
+	},
+	"noInformationAvaialble": {
+		"ar": "لا تتوفر معلومات",
+		"en": "No Information Avaialble"
+	},
+	"noPolicy(s)Found.": {
+		"ar": "لا تتوفر سياسات",
+		"en": "No Policy(s) Found."
+	},
+	"noTransferFound.": {
+		"ar": "لا يتوفر انتقالات",
+		"en": "No Transfer Found."
+	},
+	"nonRefundable": {
+		"ar": "غير قابل للاسترداد",
+		"en": "non refundable"
+	},
+	"nonStop": {
+		"ar": "بلا توقف",
+		"en": "non stop"
+	},
+	"notHere?SignUp": {
+		"ar": "لست هنا؟ سجل",
+		"en": "Not here? Sign Up"
+	},
+	"notification": {
+		"ar": "اشعار",
+		"en": "notification"
+	},
+	"november": {
+		"ar": "نوفمبر",
+		"en": "NOVEMBER"
+	},
+	"occupancy": {
+		"ar": "الاشغال",
+		"en": "occupancy"
+	},
+	"october": {
+		"ar": "أكتوبر",
+		"en": "OCTOBER"
+	},
+	"oldPassword": {
+		"ar": "كلمة المرور القديمة",
+		"en": "old password"
+	},
+	"oneWay": {
+		"ar": "اتجاه واحد",
+		"en": "one way"
+	},
+	"operatorName": {
+		"ar": "اسم المشغل",
+		"en": "operator name"
+	},
+	"other": {
+		"ar": "أخرى",
+		"en": "other"
+	},
+	"otpNumber": {
+		"ar": "الرقم السري المتغير OTP",
+		"en": "OTP Number"
+	},
+	"overview": {
+		"ar": "نظرة عامة",
+		"en": "overview"
+	},
+	"package": {
+		"ar": "باقة",
+		"en": "package"
+	},
+	"packageDate": {
+		"ar": "تاريخ الباقة",
+		"en": "package date"
+	},
+	"packagePolicies": {
+		"ar": "سياسات الباقة",
+		"en": "Package Policies"
+	},
+	"packages": {
+		"ar": "باقة",
+		"en": "packages"
+	},
+	"passenger": {
+		"ar": "المسافر",
+		"en": "passenger"
+	},
+	"passenger(s)": {
+		"ar": "المسافر/المسافرون",
+		"en": "passenger(s)"
+	},
+	"passengerDetails": {
+		"ar": "تفاصيل المسافر",
+		"en": "passenger details"
+	},
+	"passengerType": {
+		"ar": "نوع المسافر",
+		"en": "passenger type"
+	},
+	"passengers": {
+		"ar": "المسافرون",
+		"en": "passengers"
+	},
+	"password": {
+		"ar": "كلمة المرور",
+		"en": "password"
+	},
+	"payNow": {
+		"ar": "ادفع الآن",
+		"en": "pay now"
+	},
+	"priceDetails": {
+		"ar": "تفاصيل السعر",
+		"en": "Price Details"
+	},
+	"privacyAndPolicy": {
+		"ar": "السياسة والخصوصية",
+		"en": "Privacy and Policy"
+	},
+	"sat": {
+		"ar": "السبت",
+		"en": "SAT"
+	},
+	"selectBoarding &DroppingPoint": {
+		"ar": "اختر نقطة الركوب والنزول",
+		"en": "Select Boarding & Dropping Point"
+	},
+	"selectBoardingPoint": {
+		"ar": "اختر نقطة الركوب",
+		"en": "Select Boarding Point"
+	},
+	"selectCityOrAirport": {
+		"ar": "اختر مدينة أو مطار",
+		"en": "Select City or Airport"
+	},
+	"selectDroppingPoint": {
+		"ar": "اختر نقطة الوصول",
+		"en": "Select Dropping Point"
+	},
+	"september": {
+		"ar": "سبتمبر",
+		"en": "SEPTEMBER"
+	},
+	"signIn": {
+		"ar": "سجل دخول",
+		"en": "Sign in"
+	},
+	"signInWithFacebook": {
+		"ar": "سجل دخول عن طريق فيسبوك",
+		"en": "Sign in with Facebook"
+	},
+	"signInWithGoogle+": {
+		"ar": "سجل دخول عن طريق جوجل بلس",
+		"en": "Sign in with Google+"
+	},
+	"sun": {
+		"ar": "الأحد",
+		"en": "SUN"
+	},
+	"thu": {
+		"ar": "الخميس",
+		"en": "THU"
+	},
+	"tue": {
+		"ar": "الثلاثاء",
+		"en": "TUE"
+	},
+	"useCurrentLocation": {
+		"ar": "الموقع الحالي",
+		"en": "Use current location"
+	},
+	"wed": {
+		"ar": "الأربعاء",
+		"en": "WED"
+	},
+	"yourSelectedSeat(s)": {
+		"ar": "مقعدك/مقاعدك المختارة",
+		"en": "Your Selected Seat(s)"
+	},
+	"paymentGatewayCharges": {
+		"ar": "رسوم بوابة الدفع",
+		"en": "payment gateway charges"
+	},
+	"paymentPolicy": {
+		"ar": "سياسة الدفع",
+		"en": "payment policy"
+	},
+	"people": {
+		"ar": "الناس",
+		"en": "people"
+	},
+	"perNight": {
+		"ar": "لكل ليلة",
+		"en": "per night"
+	},
+	"perPerson": {
+		"ar": "لكل فرد",
+		"en": "per person"
+	},
+	"person": {
+		"ar": "فرد",
+		"en": "person"
+	},
+	"phone": {
+		"ar": "هاتف",
+		"en": "phone"
+	},
+	"pick-upLocation": {
+		"ar": "اختر موقعا",
+		"en": "pick-up location"
+	},
+	"pickUpLocation": {
+		"ar": "اختر موقعا",
+		"en": "pick up location"
+	},
+	"pickupHotelDetails": {
+		"ar": "اختر تفاصيل الفندق",
+		"en": "pickup hotel details"
+	},
+	"pickupHotelName": {
+		"ar": "اختر اسم الفندق",
+		"en": "pickup hotel name"
+	},
+	"priceBreakup": {
+		"ar": "تحطيم الأسعار",
+		"en": "price breakup"
+	},
+	"priceRules": {
+		"ar": "قواعد الأسعار",
+		"en": "price rules"
+	},
+	"primaryContactNumber": {
+		"ar": "رقم الاتصال الرئيسي",
+		"en": "primary contact number"
+	},
+	"processingPayment": {
+		"ar": "معالجة الدفع",
+		"en": "processing payment"
+	},
+	"profile": {
+		"ar": "الملف",
+		"en": "profile"
+	},
+	"profileSettings": {
+		"ar": "اعدادات الملف",
+		"en": "profile settings"
+	},
+	"rateAverage": {
+		"ar": "متوسط السعر",
+		"en": "rate average"
+	},
+	"rating": {
+		"ar": "التقييم",
+		"en": "rating"
+	},
+	"readMore": {
+		"ar": "اقرأ أكثر",
+		"en": "read more"
+	},
+	"recentSearches": {
+		"ar": "عمليات البحث الأخيرة",
+		"en": "recent searches"
+	},
+	"recommended": {
+		"ar": "موصى به",
+		"en": "recommended"
+	},
+	"remove": {
+		"ar": "احذف",
+		"en": "remove"
+	},
+	"reservationDetails": {
+		"ar": "تفاصيل الحجز",
+		"en": "reservation details"
+	},
+	"return": {
+		"ar": "العودة",
+		"en": "return"
+	},
+	"returning": {
+		"ar": "العودة",
+		"en": "returning"
+	},
+	"room": {
+		"ar": "غرفة",
+		"en": "room"
+	},
+	"roomTerms &Conditions": {
+		"ar": "شروط وأحكام الغرفة",
+		"en": "room terms & conditions"
+	},
+	"rooms": {
+		"ar": "الغرف",
+		"en": "rooms"
+	},
+	"roundTrip": {
+		"ar": "جولة",
+		"en": "round trip"
+	},
+	"save": {
+		"ar": "احفظ",
+		"en": "save"
+	},
+	"saveAsCo-traveler": {
+		"ar": "احفظ كمسافر إضافي",
+		"en": "save as co-traveler"
+	},
+	"scheduleStart": {
+		"ar": "بداية الجدول الزمني",
+		"en": "schedule start"
+	},
+	"scheduleTerms": {
+		"ar": "شروط الجدول الزمني",
+		"en": "schedule terms"
+	},
+	"search": {
+		"ar": "بحث",
+		"en": "search"
+	},
+	"seat": {
+		"ar": "مقعد",
+		"en": "seat"
+	},
+	"seeDetails": {
+		"ar": "انظر التفاصيل",
+		"en": "see details"
+	},
+	"select": {
+		"ar": "اختر",
+		"en": "select"
+	},
+	"selectACountry": {
+		"ar": "اختر بلدًا",
+		"en": "select a country"
+	},
+	"selectANationality": {
+		"ar": "اختر جنسية",
+		"en": "select a nationality"
+	},
+	"selectATraveler": {
+		"ar": "اختر مسافرًا",
+		"en": "select a traveler"
+	},
+	"selectDate": {
+		"ar": "اختر التاريخ",
+		"en": "select date"
+	},
+	"selectDestination": {
+		"ar": "اختر الوجهة",
+		"en": "select destination"
+	},
+	"selectPaymentMethod": {
+		"ar": "اختر طريقة الدفع",
+		"en": "select payment method"
+	},
+	"selectSeat": {
+		"ar": "اختر مقعدًا",
+		"en": "select seat"
+	},
+	"selected": {
+		"ar": "تم الاختيار",
+		"en": "selected"
+	},
+	"sendLink": {
+		"ar": "ارسل رابط",
+		"en": "send link"
+	},
+	"serviceTax": {
+		"ar": "ضريبة الخدمة",
+		"en": "service tax"
+	},
+	"showLess": {
+		"ar": "اعرض أقل",
+		"en": "show less"
+	},
+	"sortBy": {
+		"ar": "صنف حسب",
+		"en": "sort by"
+	},
+	"specialRequest": {
+		"ar": "طلب خاص",
+		"en": "special request"
+	},
+	"startingFrom": {
+		"ar": "بداية من",
+		"en": "starting from"
+	},
+	"status": {
+		"ar": "حالة",
+		"en": "status"
+	},
+	"stop": {
+		"ar": "توقف",
+		"en": "stop"
+	},
+	"summaryOfRatings": {
+		"ar": "ملخص التقييمات",
+		"en": "summary of ratings"
+	},
+	"support": {
+		"ar": "دعم",
+		"en": "support"
+	},
+	"surcharge &Tax": {
+		"ar": "الرسوم والضريبة",
+		"en": "surcharge & tax"
+	},
+	"surname": {
+		"ar": "اللقب",
+		"en": "surname"
+	},
+	"takeAPicture": {
+		"ar": "التقط صورة",
+		"en": "take a picture"
+	},
+	"taken": {
+		"ar": "تم الالتقاط",
+		"en": "taken"
+	},
+	"tel": {
+		"ar": "تليفون",
+		"en": "tel"
+	},
+	"terms &Conditions": {
+		"ar": "الشروط والأحكام",
+		"en": "terms & conditions"
+	},
+	"termsAndConditions": {
+		"ar": "الشروط والأحكام",
+		"en": "terms and conditions"
+	},
+	"testPaymentGateway": {
+		"ar": "اختبر بوابة الدفع",
+		"en": "test payment gateway"
+	},
+	"thankYou": {
+		"ar": "شكرا لك",
+		"en": "thank you"
+	},
+	"to": {
+		"ar": "لـ",
+		"en": "to"
+	},
+	"total": {
+		"ar": "المجموع",
+		"en": "total"
+	},
+	"totalAmount": {
+		"ar": "المبلغ الإجمالي",
+		"en": "total amount"
+	},
+	"totalPrice": {
+		"ar": "السعر الإجمالي",
+		"en": "total price"
+	},
+	"trains": {
+		"ar": "قطار",
+		"en": "trains"
+	},
+	"transfer": {
+		"ar": "الانتقالات",
+		"en": "transfer"
+	},
+	"transferDetails": {
+		"ar": "تفاصيل الانتقالات",
+		"en": "transfer details"
+	},
+	"transferOperators": {
+		"ar": "مشغلو النقل",
+		"en": "transfer operators"
+	},
+	"travelPackage": {
+		"ar": "باقات النقل",
+		"en": "travel package"
+	},
+	"travelPackages": {
+		"ar": "باقات النقل",
+		"en": "travel packages"
+	},
+	"traveler": {
+		"ar": "مسافر",
+		"en": "traveler"
+	},
+	"travelers": {
+		"ar": "مسافرون",
+		"en": "travelers"
+	},
+	"travelersInformation": {
+		"ar": "معلومات المسافرين",
+		"en": "travelers information"
+	},
+	"upcoming": {
+		"ar": "القادم",
+		"en": "upcoming"
+	},
+	"viaLocation": {
+		"ar": "عبر الموقع",
+		"en": "via location"
+	},
+	"viewReservation": {
+		"ar": "عرض الحجز",
+		"en": "view reservation"
+	},
+	"was": {
+		"ar": "كان",
+		"en": "was"
+	},
+	"years": {
+		"ar": "سنوات",
+		"en": "years"
+	},
+	"yourItineraryNumber": {
+		"ar": "رقم الرحلة الخاص بك",
+		"en": "your itinerary number"
+	},
+	"zipCode": {
+		"ar": "الرمز البريدي",
+		"en": "zip code"
+	},
+	"message0": {
+		"ar": "من فضلك قم بتعبئة أسماء المسافرين كما تظهر في بطاقة الهوية أو جواز السفر",
+		"en": "Please fill the names of the Traveler(s) as they officially appear on Identification or passports."
+	},
+	"message1": {
+		"ar": "كلمة المرور لا تتطابق مع كلمة المرور المؤكدة",
+		"en": "Password does not match the confirm password."
+	},
+	"message2": {
+		"ar": "كلمة المرور القديمة خاطئة",
+		"en": "Old password is wrong."
+	},
+	"message3": {
+		"ar": "تم تغيير كلمة المرور بنجاح",
+		"en": "Password changed successfully."
+	},
+	"message4": {
+		"ar": "من فضلك ادخل عنوان بريد الكتروني صالح",
+		"en": "Please enter valid email address."
+	},
+	"message5": {
+		"ar": "تم ارسال بريد الكتروني. من فضلك تفقد بريدك الالكتروني",
+		"en": "Sent email. Please check your email."
+	},
+	"message6": {
+		"ar": "من فضلك ادخل رقم هاتف خلوي صالح",
+		"en": "Please enter valid mobile number."
+	},
+	"message7": {
+		"ar": "تم ارسال رسالة نصية. من فضلك تفقد رسائلك",
+		"en": "Sent SMS. Please check your SMS."
+	},
+	"message8": {
+		"ar": "من فضلك ادخل عنوان بريد الكتروني",
+		"en": "Please enter email address."
+	},
+	"message9": {
+		"ar": "من فضلك ادخل رقم الهاتف",
+		"en": "Please enter phone number."
+	},
+	"message10": {
+		"ar": "من فضلك ادخل كلمة المرور",
+		"en": "Please enter password."
+	},
+	"message11": {
+		"ar": "رقم هاتف خلوي غير صالح",
+		"en": "Invalid Mobile number."
+	},
+	"message12": {
+		"ar": "رقم هاتف خلوي غير صالح",
+		"en": "Invalid Mobile number."
+	},
+	"message13": {
+		"ar": "كلمة المرور لا تتطابق مع كلمة المرور المؤكدة",
+		"en": "Password does not match the confirm password."
+	},
+	"message14": {
+		"ar": "كلمة المرور لابد أن تكون 6 أحرف على الأقل",
+		"en": "Password must be minimum 6 characters."
+	},
+	"message15": {
+		"ar": "تم تسجيلك بنجاح",
+		"en": "You have been registered successfully."
+	},
+	"message16": {
+		"ar": "من فضلك اختر الموقع أولا",
+		"en": "Please select a location first."
+	},
+	"message17": {
+		"ar": "من فضلك اختر مسافرًا اضافيًا",
+		"en": "Please select one more passengers."
+	},
+	"message18": {
+		"ar": "من فضلك اختر الموقع من",
+		"en": "Please select a From location."
+	},
+	"message19": {
+		"ar": "من فضلك اختر الموقع إلى",
+		"en": "Please select To location."
+	},
+	"message20": {
+		"ar": "من فضلك اختر وجهة المغادرة",
+		"en": "Please enter a destination for depature."
+	},
+	"message21": {
+		"ar": "من فضلك اختر وجهة الوصول",
+		"en": "Please enter a destination for arrival."
+	},
+	"message22": {
+		"ar": "مطارات المغادرة والوصول لا يمكن أن تكون متطابقة",
+		"en": "The departure and arrival airports cannot be the same."
+	},
+	"message23": {
+		"ar": "من فضلك اختر بالغًا اضافيًا",
+		"en": "Please select one more adult."
+	},
+	"message24": {
+		"ar": "يمكنك اختيار قاصرين أقل من البالغين. هل سوف تزيد البالغين أيضًا؟",
+		"en": "You can select infants less than aduls. Will you increase adults too?"
+	},
+	"message25": {
+		"ar": "لا يوجد تضمين للنقل المختار",
+		"en": "No Inclusion Exist For The Selected Transfer"
+	},
+	"message26": {
+		"ar": "لا يوجد استثناء لوسيلة النقل المختارة",
+		"en": "No Exclusion Exist For The Selected Transfer"
+	},
+	"message27": {
+		"ar": "من فضلك حدد موقع الركوب",
+		"en": "Please select a pick up location"
+	},
+	"message28": {
+		"ar": "من فضلك حدد موقع النزول",
+		"en": "Please select a drop off location"
+	},
+	"message29": {
+		"ar": "هل أنت متأكد من ازالة",
+		"en": "Are you sure you wish to remove the"
+	},
+	"message30": {
+		"ar": "تمت ازالة عنصر السلم بنجاح",
+		"en": "Cart item is removed successfully."
+	},
+	"message31": {
+		"ar": "لا يوجد حجوزات متاحة حتى الآن",
+		"en": "No Booking(s) available yet."
+	},
+	"message32": {
+		"ar": "من فضلك اختر موعد المغادرة",
+		"en": "Please select check-out date."
+	},
+	"message33": {
+		"ar": "من فضلك اختر موعد وصول/مغادرة صالح",
+		"en": "Please select valid Check-in/Check-out dates."
+	},
+	"message34": {
+		"ar": "لا يتوفر فنادق في هذا الموقع",
+		"en": "No inventory available at this location."
+	},
+	"message35": {
+		"ar": "تم الحجز بنجاح",
+		"en": "Your Booking Successfully Done."
+	},
+	"message36": {
+		"ar": "شكرا للحجز مع تريب شوب",
+		"en": "Thank you for booking at Trip Shop."
+	},
+	"message37": {
+		"ar": "سوف تستقبل بريدًا الكترونيًا بتفاصيل الحجز",
+		"en": "You will receive an email with details for this booking."
+	},
+	"message38": {
+		"ar": "يمكنك الاتصال بنا , باستخدام التفاصيل أدناه , في حالة حاجتك للمساعدة",
+		"en": "You Can Contact Us , Using Below Details , In Case You Require Assistance"
+	},
+	"message39": {
+		"ar": "نعم أمن رحلتي بالتأمين",
+		"en": "Yes Secure my trip with insurance"
+	},
+	"message40": {
+		"ar": "أكد أن جميع المسافرين تتراوح أعمارهم بين عامين و70 عام",
+		"en": "& confirm all passengers are between 2 to 70 years of age"
+	},
+	"message41": {
+		"ar": "أنا موافق على",
+		"en": "I agree to the"
+	},
+	"message42": {
+		"ar": "لقد قرأت ووافقت على كل",
+		"en": "I have READ and AGREED to all the"
+	},
+	"message43": {
+		"ar": "(يرجى ملاحظة أن البنود والشروط بجانب العناصر الفردية المذكورة أعلاه)",
+		"en": "(Please note the Terms and Conditions are besides the individual items listed above)"
+	},
+	"message44": {
+		"ar": "لراحتك، يمكنك تخزين معلومات لزملائك المسافرين، مثل الأصدقاء والعائلة، لتوفير الوقت عند اجراء حجز عن طريق اختيار المسافر من القائمة. يمكنك اضافة أو حذف الاسماء من قائمة المسافرين الخاصة بك في أي وقت.",
+		"en": "For your convenience, you can store Traveler information for your fellow Travelers, like friends and family then, when making a reservation, save time by simply selecting the traveler from the list. You can add or delete names from your list of travelers"
+	},
+	"message45": {
+		"ar": "تم ازالة المسافر بنجاح",
+		"en": "Co-Traveler deleted successfully."
+	},
+	"message46": {
+		"ar": "تم تحديث ملف تعريف العميل بنجاح.",
+		"en": "Customer Profile updated successfully."
+	},
+	"message47": {
+		"ar": "تم إرسال طلب التغيير بنجاح.",
+		"en": "Change request has been successfully sent."
+	},
+	"message48": {
+		"ar": "شكرا لك على الطلب. سوف يحظى طلبك باهتمام فوري وسنقوم بالرد عبر البريد الإلكتروني في أقرب وقت.",
+		"en": "Thanks you for request. Your request will receive immediate attention and we will respond via email as soon as possible."
+	},
+	"message49": {
+		"ar": "ثلاث طرق للعثور على الإجابات",
+		"en": "Three way to find answers"
+	},
+	"message50": {
+		"ar": "البحث عن طريق حجوزاتي  للعثور على اجابات لأسئلتك.",
+		"en": "Search by 'My Bookings' to find answers to your questions."
+	},
+	"message51": {
+		"ar": "اتصل بخدمة العملاء على الرقم 987234234  نحن متاحون 24 ساعة على مدار الاسبوع.",
+		"en": "Call Customer Support at 987234234\nWe are available 24 hours a day, 7 days a week."
+	},
+	"message52": {
+		"ar": "راسلنا على البريد الالكتروني لأي أسئلة غير عاجلة reservation@tripshop.com",
+		"en": "Send us an email at reservation@tripshop.com with any non-urgent questions."
+	},
+	"message53": {
+		"ar": "نرد على الاستفسارات خلال 24 ساعة",
+		"en": "We Respond to inquiries within 24 hours"
+	}
+}

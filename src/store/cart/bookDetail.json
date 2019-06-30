@@ -1,0 +1,568 @@
+{
+    "bookingRefNoIndex": {},
+    "bookingID": "152306",
+    "businessObject": {
+        "stopInfo": [],
+        "rating": 5,
+        "ratingType": "",
+        "ratersCount": 0,
+        "items": [
+            {
+                "amount": 0,
+                "strikeThroughAmount": 0,
+                "originalAmount": 0,
+                "dateInfo": {
+                    "startDate": "0001-01-01T00:00:00",
+                    "endDate": "0001-01-01T00:00:00"
+                },
+                "hasSpecialDeal": false,
+                "tpExtension": [],
+                "policies": [],
+                "sequence": 0,
+                "properties": {},
+                "item": [
+                    {
+                        "stopInfo": [],
+                        "boardingStatus": false,
+                        "age": 0,
+                        "boardTypes": [
+                            {
+                                "id": "",
+                                "type": "Bed and Breakfast",
+                                "priority": 0
+                            }
+                        ],
+                        "business": "hotel",
+                        "objectIdentifier": "room",
+                        "code": "1",
+                        "token": "1",
+                        "tpExtension": [
+                            {
+                                "key": "groupId",
+                                "value": ""
+                            },
+                            {
+                                "key": "promotionName",
+                                "value": ""
+                            },
+                            {
+                                "key": "promotionCriteriaValue",
+                                "value": ""
+                            },
+                            {
+                                "key": "adults",
+                                "value": "2"
+                            },
+                            {
+                                "key": "children",
+                                "value": "0"
+                            },
+                            {
+                                "key": "infants",
+                                "value": "-1"
+                            }
+                        ],
+                        "dateInfo": {
+                            "startDate": "0001-01-01T00:00:00",
+                            "endDate": "0001-01-01T00:00:00"
+                        },
+                        "description": "Double Suite Room",
+                        "images": [],
+                        "paxInfo": [],
+                        "amount": 0,
+                        "strikeThroughAmount": 0,
+                        "originalAmount": 0,
+                        "policies": [],
+                        "vendors": [],
+                        "seatLayout": [],
+                        "displayRateInfo": [],
+                        "breakDownRateInfo": [],
+                        "config": [],
+                        "flags": {},
+                        "stops": 0,
+                        "layOverDuration": 0,
+                        "journeyDuration": 0,
+                        "availabilityCount": 0,
+                        "sequenceNumber": 0,
+                        "amenities": [],
+                        "features": [],
+                        "paymentGatewayInfo": [],
+                        "displayPriority": 0,
+                        "hasSpecialDeal": false,
+                        "specialDealID": "",
+                        "specialDealDescription": "",
+                        "viewCount": 0,
+                        "quantity": 0
+                    }
+                ],
+                "config": [],
+                "flags": {}
+            }
+        ],
+        "isCheckAvailEnabled": false,
+        "stopDetails": [],
+        "totalDuration": 0,
+        "ticketTimeLimit": "0001-01-01T00:00:00",
+        "documents": [],
+        "additionalParams": [],
+        "cancellationPeriod": -1,
+        "currencyRefCode": "24000",
+        "expiryPeriod": 0,
+        "name": "Park Plaza Science Park",
+        "business": "hotel",
+        "objectIdentifier": "hotel",
+        "id": "1004143",
+        "tpExtension": [
+            {
+                "key": "locationCode",
+                "value": "CN2"
+            }
+        ],
+        "dateInfo": {
+            "startDate": "2019-01-17T00:00:00",
+            "endDate": "2019-01-18T00:00:00"
+        },
+        "locationInfo": {
+            "fromLocation": {
+                "country": "China",
+                "latitude": 39.97592,
+                "longitude": 116.33885,
+                "priority": 0,
+                "address": "Zhichun Road, Haidian District 25 100191Beijing ",
+                "city": "Beijing"
+            },
+            "toLocation": {
+                "latitude": 0,
+                "longitude": 0,
+                "priority": 0
+            }
+        },
+        "images": [
+            {
+                "url": "http://online.travellanda.com/photo/hotel/bf00b3d32a61153a/6f/6fb0a77c69f0070e/01-b.jpg",
+                "updatedDate": "0001-01-01T00:00:00",
+                "type": "default",
+                "isDefault": false
+            }
+        ],
+        "paxInfo": [],
+        "amount": 1127,
+        "strikeThroughAmount": 0,
+        "originalAmount": 0,
+        "policies": [
+            {
+                "isFromPolicyDetails": false,
+                "isDisplayPolicy": false,
+                "type": "Cancellation",
+                "name": "",
+                "description": "",
+                "amount": 0,
+                "percentage": 0,
+                "dateInfo": {
+                    "startDate": "0001-01-01T00:00:00",
+                    "endDate": "0001-01-01T00:00:00"
+                },
+                "isCurrentPolicy": true,
+                "isPortalPolicy": false,
+                "isItemLevel": false,
+                "isNoShow": false,
+                "criteria": [
+                    {
+                        "key": "CancellationAmount",
+                        "value": "1126.97"
+                    },
+                    {
+                        "key": "Markup",
+                        "value": "0.03"
+                    },
+                    {
+                        "key": "CancellationChargeValue",
+                        "value": "100"
+                    },
+                    {
+                        "key": "CancellationChargeType",
+                        "value": "Percentage"
+                    },
+                    {
+                        "key": "CancellationChargeCurrency",
+                        "value": "SAR"
+                    },
+                    {
+                        "key": "CancellationChargeUnit",
+                        "value": "Days"
+                    },
+                    {
+                        "key": "CancellationDeadline",
+                        "value": "8"
+                    },
+                    {
+                        "key": "CancellationDeadlineDate",
+                        "value": "2019-01-09T00:00:00"
+                    },
+                    {
+                        "key": "CancellationSupplierAmount",
+                        "value": "243.20"
+                    },
+                    {
+                        "key": "CancellationSupplierCurrency",
+                        "value": "EUR"
+                    }
+                ]
+            },
+            {
+                "isFromPolicyDetails": false,
+                "isDisplayPolicy": false,
+                "type": "Cancellation",
+                "name": "",
+                "description": "",
+                "amount": 0,
+                "percentage": 0,
+                "dateInfo": {
+                    "startDate": "0001-01-01T00:00:00",
+                    "endDate": "0001-01-01T00:00:00"
+                },
+                "isCurrentPolicy": false,
+                "isPortalPolicy": false,
+                "isItemLevel": false,
+                "isNoShow": false,
+                "criteria": []
+            },
+            {
+                "isFromPolicyDetails": false,
+                "isDisplayPolicy": false,
+                "type": "Cancellation",
+                "name": "",
+                "description": "",
+                "amount": 0,
+                "percentage": 0,
+                "dateInfo": {
+                    "startDate": "0001-01-01T00:00:00",
+                    "endDate": "0001-01-01T00:00:00"
+                },
+                "isCurrentPolicy": false,
+                "isPortalPolicy": false,
+                "isItemLevel": false,
+                "isNoShow": false,
+                "criteria": []
+            },
+            {
+                "isFromPolicyDetails": false,
+                "isDisplayPolicy": false,
+                "type": "",
+                "name": "",
+                "description": "If cancelled up to 8 Days of check in date, user needs to pay 100 Percentage cancellation charges. <br/> Additional fee and taxes may apply.",
+                "amount": 0,
+                "percentage": 0,
+                "dateInfo": {
+                    "startDate": "0001-01-01T00:00:00",
+                    "endDate": "0001-01-01T00:00:00"
+                },
+                "isCurrentPolicy": false,
+                "isPortalPolicy": false,
+                "isItemLevel": false,
+                "isNoShow": false,
+                "criteria": []
+            },
+            {
+                "isFromPolicyDetails": false,
+                "isDisplayPolicy": false,
+                "type": "",
+                "name": "",
+                "description": "If you would like to book a cot, please contact TravelCarma Team at support@travelcarma.com.",
+                "amount": 0,
+                "percentage": 0,
+                "dateInfo": {
+                    "startDate": "0001-01-01T00:00:00",
+                    "endDate": "0001-01-01T00:00:00"
+                },
+                "isCurrentPolicy": false,
+                "isPortalPolicy": false,
+                "isItemLevel": false,
+                "isNoShow": false,
+                "criteria": []
+            },
+            {
+                "isFromPolicyDetails": false,
+                "isDisplayPolicy": false,
+                "type": "",
+                "name": "",
+                "description": "Alert : non amendable; please cancel &amp; rebook Smoking is only allowed in designated areas. Guests smoking elsewhere are responsible for all costs, damages, and liabilities caused by smoking.",
+                "amount": 0,
+                "percentage": 0,
+                "dateInfo": {
+                    "startDate": "0001-01-01T00:00:00",
+                    "endDate": "0001-01-01T00:00:00"
+                },
+                "isCurrentPolicy": false,
+                "isPortalPolicy": false,
+                "isItemLevel": false,
+                "isNoShow": false,
+                "criteria": []
+            }
+        ],
+        "contactInformation": {
+            "phoneNumber": "00861082356699",
+            "actlFormatPhoneNumber": "-00861082356699"
+        },
+        "vendors": [
+            {
+                "sequence": 0,
+                "type": "default",
+                "properties": {},
+                "item": {
+                    "name": "TravelLanda",
+                    "provider": ""
+                },
+                "config": [],
+                "flags": {}
+            }
+        ],
+        "seatLayout": [],
+        "displayRateInfo": [
+            {
+                "amount": 1127,
+                "description": "Base Rate",
+                "currencyCode": "SAR",
+                "purpose": "1"
+            },
+            {
+                "amount": 0,
+                "description": "Other",
+                "currencyCode": "SAR",
+                "purpose": "15"
+            },
+            {
+                "amount": 1127,
+                "description": "Total",
+                "currencyCode": "SAR",
+                "purpose": "10"
+            }
+        ],
+        "breakDownRateInfo": [],
+        "config": [],
+        "flags": {
+            "isOnlineCancellationAvailable": false
+        },
+        "stops": 0,
+        "layOverDuration": 0,
+        "journeyDuration": 0,
+        "availabilityCount": 0,
+        "sequenceNumber": 0,
+        "amenities": [],
+        "features": [],
+        "paymentGatewayInfo": [],
+        "displayPriority": 0,
+        "hasSpecialDeal": false,
+        "viewCount": 0,
+        "quantity": 0
+    },
+    "bookingModeID": "2",
+    "bookingModeType": -1,
+    "isBookable": true,
+    "bookingModeTypeDesc": "Web Customer",
+    "bookingAgentID": "12106",
+    "loggedInAgentID": "0",
+    "providerID": "274",
+    "bookingBranchID": "0",
+    "bookingUserID": "13648",
+    "bookingPortalAgentID": "12106",
+    "loggedInUserID": "19146",
+    "loggedInEntityID": "29186",
+    "itineraryItemID": "2",
+    "businessDetails": "",
+    "insuranceAmount": 0,
+    "transactionToken": "0119-AA49025",
+    "travellerDetails": [
+        {
+            "isMainPax": true,
+            "locationInfo": {},
+            "rate": 0,
+            "tax": 0,
+            "discount": 0,
+            "markup": 0,
+            "total": 0,
+            "details": {
+                "userDisplayName": "Li Xing",
+                "isNewsLetterSubscription": false,
+                "isActive": false,
+                "firstName": "Li",
+                "lastName": "Xing",
+                "ratePercentage": 0,
+                "discountChangePercentage": 0,
+                "cancelWaiveOffPercentage": 0,
+                "location": {
+                    "countryID": "SA",
+                    "latitude": 0,
+                    "longitude": 0,
+                    "priority": 0,
+                    "city": ""
+                },
+                "contactInformation": {
+                    "phoneNumber": "15712309691",
+                    "actlFormatPhoneNumber": "86-15712309691",
+                    "phoneNumberCountryCode": "+86",
+                    "email": "polarislee1984@outlook.com"
+                },
+                "isSelfSubscribed": false,
+                "gmtTimeDifference": 0,
+                "isHeadOffice": false,
+                "agentBalance": 0,
+                "canSendEmail": false,
+                "age": 0,
+                "genderDesc": "Male",
+                "gender": "M",
+                "actlGender": "19",
+                "birthDate": "2019-01-16T21:00:00",
+                "userType": 0,
+                "isPortalAdmin": false,
+                "anniversaryDate": "0001-01-01T00:00:00",
+                "passportExpirationDate": "0001-01-01T00:00:00",
+                "isCoPAX": false,
+                "seqNo": 0,
+                "profilePercentage": 0,
+                "createdDate": "0001-01-01T00:00:00",
+                "loginCount": 0,
+                "totalBookingAmount": 0
+            },
+            "age": 0,
+            "addons": [],
+            "stopInfo": [],
+            "bookingDetails": {
+                "boardingPassQrCodeString": "0wExmLmuMffWBytt/RyNg2RTpag1S3S7",
+                "isBoardingPassValid": false,
+                "isBoarded": false,
+                "issueDate": "0001-01-01T00:00:00",
+                "seatNo": "1",
+                "businessObjectItemCode": "1",
+                "seatType": "Double Suite Room",
+                "scheduleDateTime": "0001-01-01T00:00:00"
+            },
+            "isPaxForeigner": false,
+            "type": 0,
+            "typeString": "ADT",
+            "max": 0,
+            "min": 0,
+            "quantity": 0,
+            "displayRateInfo": [],
+            "breakDownRateInfo": [],
+            "paymentGatewayChargeDetails": []
+        }
+    ],
+    "paymentGatewaySettings": [
+        {
+            "gateway": "ACTLPayment",
+            "accountNo": "",
+            "gatewayName": "Test Gateway",
+            "isCallAPI": false,
+            "sortOrder": 1,
+            "creditCardCharge": 1.75,
+            "creditCardBackFee": 2,
+            "isPercentage": true,
+            "currency": "USD"
+        },
+        {
+            "gateway": "PayFort",
+            "accountNo": "",
+            "gatewayName": "PayFort",
+            "isCallAPI": false,
+            "sortOrder": 4,
+            "creditCardCharge": 0,
+            "creditCardBackFee": 0,
+            "isPercentage": true,
+            "currency": "SAR"
+        },
+        {
+            "gateway": "PayFortSADAD",
+            "accountNo": "",
+            "gatewayName": "SADAD Account حساب سداد",
+            "isCallAPI": false,
+            "sortOrder": 2,
+            "creditCardCharge": 0,
+            "creditCardBackFee": 0,
+            "isPercentage": true,
+            "currency": "SAR"
+        },
+        {
+            "gateway": "PayFortMADA",
+            "accountNo": "",
+            "gatewayName": "mada Debit Cardبطاقة مدى البنكية",
+            "isCallAPI": false,
+            "sortOrder": 3,
+            "creditCardCharge": 0,
+            "creditCardBackFee": 0,
+            "isPercentage": true,
+            "currency": "SAR"
+        },
+        {
+            "gateway": "MasterCardCheckout",
+            "accountNo": "",
+            "gatewayName": "MasterCardCheckout",
+            "isCallAPI": false,
+            "sortOrder": 1000,
+            "creditCardCharge": 0,
+            "creditCardBackFee": 0,
+            "isPercentage": true,
+            "currency": "USD"
+        }
+    ],
+    "changeRequestDetails": [],
+    "comments": [],
+    "addons": [],
+    "id": "1",
+    "itineraryID": "204155",
+    "itineraryRefNo": "0119-AA00478",
+    "itineraryDetailID": "194786",
+    "itineraryName": "default",
+    "bookingRefNo": "TL63480436",
+    "bookingDate": "2019-01-17T05:10:35",
+    "dateInfo": {
+        "startDate": "2019-01-17T00:00:00",
+        "endDate": "2019-01-18T00:00:00"
+    },
+    "amount": 0,
+    "totalAmount": 1127,
+    "paidAmount": 1127,
+    "unPaidAmount": 0,
+    "markupAmount": 0,
+    "businessID": "1",
+    "bookingStatusID": "1",
+    "memberDetailID": "",
+    "bookingCustomerClassID": "",
+    "businessShortDescription": "Hotel",
+    "bookingStatus": "Confirmed",
+    "branchID": "0",
+    "userID": "13648",
+    "acCommission": "0",
+    "gatewayRefNo": "57a934bb-5536-4ada-8033-9808dc",
+    "gateway": "dummy",
+    "paymentModeID": "88",
+    "package": "",
+    "previousBookingStatusID": "",
+    "cancellationPeriod": 2,
+    "paymentGatewayPercentageAmount": 0,
+    "config": [
+        {
+            "key": "RoomDetails",
+            "value": "1042606986-1-0_Double Suite Room_2_0_Li_Xing__Bed and Breakfast"
+        },
+        {
+            "key": "BrkDnRt",
+            "value": "xJDSDnnPMz7SshRAZHTljQ=="
+        },
+        {
+            "key": "TRCnt",
+            "value": "wScFY4ptYlPRE7Evv5ZW3g=="
+        },
+        {
+            "key": "TP",
+            "value": "xJDSDnnPMz7SshRAZHTljQ=="
+        },
+        {
+            "key": "AgentRef",
+            "value": "cf59ddee-d8be-4704-9033-3182d3"
+        }
+    ],
+    "isClaimBack": false,
+    "claimBackAmount": 0,
+    "claimBackApprovedAmount": 0
+}

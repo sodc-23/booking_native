@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "TripShop",
+    "description": "This project is really great.",
+    "slug": "trip",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.travelcarma.tripshop",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAFEOt8tYtNzvFDsw0FigdNdXSfTlzD78E"
+        }
+      },
+      "versionCode":1
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.travelcarma.tripshop",
+      "config" : {
+        "googleMapsApiKey": "AIzaSyCT-5nM6Tr-Da-XIHI7ZbcNguFHGj-leHY"
+      }
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+    "stopInfo": [],
+    "rating": 0,
+    "ratersCount": 0,
+    "url": "",
+    "items": [
+        {
+            "amount": 0,
+            "strikeThroughAmount": 0,
+            "originalAmount": 0,
+            "dateInfo": {
+                "startDate": "0001-01-01T00:00:00",
+                "endDate": "0001-01-01T00:00:00"
+            },
+            "hasSpecialDeal": false,
+            "tpExtension": [],
+            "policies": [],
+            "code": "2019-01-24T00:00:00",
+            "sequence": 0,
+            "type": "2019-01-24T00:00:00",
+            "properties": {
+                "pax": {
+                    "adult": 1,
+                    "child": 0,
+                    "infant": 0
+                }
+            },
+            "item": [
+                {
+                    "stopInfo": [],
+                    "boardingStatus": false,
+                    "age": 0,
+                    "name": "Black Stone (10:00)",
+                    "business": "activity",
+                    "objectIdentifier": "activityOption",
+                    "code": "26454#$#0",
+                    "id": "2019-01-24T00:00:00_26454#$#0",
+                    "tpExtension": [
+                        {
+                            "key": "operationalDays",
+                            "value": "Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday"
+                        }
+                    ],
+                    "status": "Available",
+                    "dateInfo": {
+                        "startDate": "2019-01-24T00:00:00",
+                        "endDate": "0001-01-01T00:00:00"
+                    },
+                    "description": "",
+                    "images": [],
+                    "paxInfo": [],
+                    "amount": 25,
+                    "displayAmount": "SAR  25",
+                    "strikeThroughAmount": 0,
+                    "originalAmount": 0,
+                    "policies": [],
+                    "vendors": [],
+                    "seatLayout": [],
+                    "displayRateInfo": [
+                        {
+                            "amount": 25,
+                            "description": "BASEPRICE",
+                            "currencyCode": "SAR",
+                            "purpose": "1"
+                        },
+                        {
+                            "amount": 25,
+                            "description": "PREPAYAMOUNT",
+                            "currencyCode": "SAR",
+                            "purpose": "8"
+                        },
+                        {
+                            "amount": 25,
+                            "description": "TOTALAMOUNT",
+                            "currencyCode": "SAR",
+                            "purpose": "10"
+                        }
+                    ],
+                    "breakDownRateInfo": [],
+                    "config": [
+                        {
+                            "key": "BaseRate",
+                            "value": "25.0000"
+                        },
+                        {
+                            "key": "Status",
+                            "value": "Available"
+                        }
+                    ],
+                    "flags": {},
+                    "stops": 0,
+                    "layOverDuration": 0,
+                    "journeyDuration": 0,
+                    "availabilityCount": 0,
+                    "sequenceNumber": 0,
+                    "amenities": [],
+                    "features": [],
+                    "paymentGatewayInfo": [],
+                    "displayPriority": 0,
+                    "hasSpecialDeal": false,
+                    "specialDealID": "",
+                    "viewCount": 0,
+                    "quantity": 0
+                }
+            ],
+            "config": [],
+            "flags": {}
+        }
+    ],
+    "isCheckAvailEnabled": false,
+    "stopDetails": [],
+    "totalDuration": 0,
+    "ticketTimeLimit": "0001-01-01T00:00:00",
+    "documents": [],
+    "additionalParams": [],
+    "cancellationPeriod": -1,
+    "expiryPeriod": 0,
+    "name": "Black Stone",
+    "business": "activity",
+    "objectIdentifier": "activity",
+    "token": "",
+    "id": "18393",
+    "tpExtension": [
+        {
+            "key": "bestAmountCriteria",
+            "value": ""
+        },
+        {
+            "key": "businessTypeName",
+            "value": ""
+        },
+        {
+            "key": "rulesAndRegulations",
+            "value": "Contract remarks:VOUCHER INFORMATION Activity Type : Hotel pick-up Supplier phone number +966505197560 Supplier Language: English, Arabic Supplier Schedule: Sunday - Thursday 8am to 6pm Redeem type: Printed voucher Redeem address: Redeem point schedule: Meeting point/ Pick-up location: hotel of the guest/ Airport Hop on-hop off meeting point: Pick-up time: on request Drop-off location: Drop-off time: Opening/ Start time: Closing/ End time: Opening days/period: Daily Duration: 4/8 hours Frequency: Guide language: Not Included: Lunch for the driver will be at the driversexpense (no cost to the client). ex. Drop off to hotel Dress-code: Medical restrictions: ID, licence, certificate, proofing documents: Min. Age: Max. Age: Min. Weight: Max. Weight: Voucher validity: 1 day Extra comments: -Time will start to count from the moment they are picked up at the hotel. -The vehicle would arrive at anytime in between the said timings, unless due to any unavoidable circumstances such as traffic conditions, mishape or in case of any other delay. -The guest would be picked up and dropped off to the same location as provided."
+        },
+        {
+            "key": "inclusions",
+            "value": "Transport by private vehicle; Entrance fees; Panoramic tour; Professional guide"
+        },
+        {
+            "key": "exclusions",
+            "value": "Hotel drop off; Hotel pick-up; Gratuities (optional); Food and drinks unless specified"
+        },
+        {
+            "key": "departurePoint",
+            "value": ""
+        },
+        {
+            "key": "duration",
+            "value": "1 Days"
+        },
+        {
+            "key": "operatorName",
+            "value": "Tripshop Activity"
+        },
+        {
+            "key": "meetingPlace",
+            "value": ""
+        }
+    ],
+    "status": "Available",
+    "dateInfo": {
+        "startDate": "2019-01-23T00:00:00",
+        "endDate": "0001-01-01T00:00:00"
+    },
+    "description": "This holy stone is the eastern cornerstone of the Kaaba, the ancient stone building towards which all Muslims pray. Many Muslims believe that the stone (originally white but now black from absorbing the sins of man) fell from heaven during the time of Adam and Eve.",
+    "locationInfo": {
+        "fromLocation": {
+            "country": "Saudi Arabia",
+            "latitude": 21.38908,
+            "longitude": 39.85791,
+            "priority": 0,
+            "address": "Makkah, Saudi Arabia",
+            "city": "Makkah",
+            "state": "Makkah"
+        },
+        "toLocation": {
+            "latitude": 0,
+            "longitude": 0,
+            "priority": 0
+        }
+    },
+    "images": [
+        {
+            "title": "Blackstone",
+            "url": "http://preprod-activityinventory.tripshop.com/ExcursionExtranet/Upload/Excursion_7448/201781774722_black.jpg",
+            "category": "",
+            "description": "",
+            "updatedDate": "0001-01-01T00:00:00",
+            "type": "Photo",
+            "id": "71244",
+            "isDefault": true
+        },
+        {
+            "title": "stone",
+            "url": "http://preprod-activityinventory.tripshop.com/ExcursionExtranet/Upload/Excursion_7448/201781775246_black 2.jpg",
+            "category": "",
+            "description": "",
+            "updatedDate": "0001-01-01T00:00:00",
+            "type": "Photo",
+            "id": "71245",
+            "isDefault": false
+        }
+    ],
+    "paxInfo": [
+        {
+            "type": 0,
+            "typeString": "ADT",
+            "max": 0,
+            "min": 0,
+            "quantity": 1,
+            "displayRateInfo": [],
+            "breakDownRateInfo": [],
+            "paymentGatewayChargeDetails": [],
+            "age": 0
+        }
+    ],
+    "amount": 25,
+    "displayAmount": "SAR  25",
+    "strikeThroughAmount": 0,
+    "originalAmount": 25,
+    "displayOriginalAmount": "SAR  25",
+    "policies": [],
+    "contactInformation": {
+        "workEmail": ""
+    },
+    "vendors": [
+        {
+            "sequence": 0,
+            "type": "default",
+            "properties": {},
+            "item": {
+                "name": "MADARATACTI",
+                "provider": "MADARATActivity"
+            },
+            "config": [],
+            "flags": {}
+        }
+    ],
+    "seatLayout": [],
+    "breakDownRateInfo": [],
+    "config": [],
+    "flags": {},
+    "stops": 0,
+    "layOverDuration": 0,
+    "journeyDuration": 0,
+    "availabilityCount": 0,
+    "sequenceNumber": 0,
+    "amenities": [
+        {
+            "id": "4611",
+            "name": "City Tours",
+            "priority": 0
+        }
+    ],
+    "features": [],
+    "paymentGatewayInfo": [],
+    "displayPriority": 0,
+    "hasSpecialDeal": false,
+    "specialDealID": "",
+    "specialDealDescription": "",
+    "viewCount": 0,
+    "quantity": 0
+}
