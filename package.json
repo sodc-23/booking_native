@@ -14,7 +14,7 @@
     "expo": "^31.0.2",
     "fuse.js": "^3.3.0",
     "libphonenumber-js": "^1.6.9",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "moment": "^2.22.2",
     "prop-types": "^15.7.2",
     "react": "16.5.0",
