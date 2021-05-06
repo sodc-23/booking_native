@@ -41,7 +41,7 @@
     "react-xml-parser": "^1.0.8",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0"
